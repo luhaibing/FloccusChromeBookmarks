@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2938: for Floccus bookmark sync browser extension -->
+<!--- highestId :2940: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3941,8 +3941,11 @@
   <bookmark href="https://www.one-tab.com/page/VwGE7-wVTF6yKL4RWdCVpw" id="113">
     <title>OneTab - 0903</title>
   </bookmark>
-  <bookmark href="https://www.coze.cn/overview/2025" id="2938">
-    <title>扣子，用 Agent 重塑生产力</title>
+  <bookmark href="https://www.coze.cn/" id="2939">
+    <title>扣子(国内)</title>
+  </bookmark>
+  <bookmark href="https://www.coze.com/home" id="2940">
+    <title>Home - Coze</title>
   </bookmark>
 </folder>
 <folder id="2">
