@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2941: for Floccus bookmark sync browser extension -->
+<!--- highestId :2949: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -73,7 +73,7 @@
     <bookmark href="https://www.toolhelper.cn/SymmetricEncryption/XOR" id="49">
       <title>异或 加密/解密 - 锤子在线工具</title>
     </bookmark>
-    <bookmark href="http://10.10.0.202:30082/doc.html#/home" id="50">
+    <bookmark href="https://api-asia.aipervip.com:30080/doc.html#/home" id="2942">
       <title>swagger 测试文档</title>
     </bookmark>
     <bookmark href="https://www.figma.com/files/1251429887903287492/project/282867095/%F0%9F%93%B1APP%E7%AB%AF-%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3?fuid=1336587526712395560" id="51">
@@ -526,9 +526,6 @@
   </bookmark>
   <bookmark href="https://tempmail.plus/zh/#!" id="21">
     <title>一次性临时电子邮件 - TempMail.Plus</title>
-  </bookmark>
-  <bookmark href="https://chat.openai.com/" id="22">
-    <title>ChatGPT</title>
   </bookmark>
   <folder id="23">
     <title>Rust</title>
@@ -1064,6 +1061,9 @@
         <bookmark href="https://mirrors.cloud.tencent.com/" id="1747">
           <title>腾讯软件源</title>
         </bookmark>
+        <bookmark href="https://juejin.cn/post/7313242107681882138" id="2943">
+          <title>使用 KCP 打造更安全的 Gson 与更快的 Moshi - 掘金</title>
+        </bookmark>
         <bookmark href="https://juejin.cn/post/7385903460572872739" id="1748">
           <title>Android Gradle学习（三）- 生命周期与构建过程 - 掘金</title>
         </bookmark>
@@ -1412,15 +1412,6 @@
             <title>Android MQTT 集控 - 掘金</title>
           </bookmark>
         </folder>
-      </folder>
-      <folder id="2492">
-        <title>usecase</title>
-        <bookmark href="https://juejin.cn/post/7373590621246717971" id="2538">
-          <title>Android 架构之 UseCase 最佳实践Android 官方的最新架构中引入了 Domain Layer，其核心 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7230597098847092791" id="2539">
-          <title>Android 官方架构中的 UseCase 该怎么写？UseCase 的用途 Android 最新的架构规范中，引入了 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2495">
         <title>混淆</title>
@@ -2955,12 +2946,6 @@
           <title>为什么最近每份 Android 简历都说 “熟悉 MQTT 协议”？MQTT 是一种基于发布 - 订阅模型的消息传递协议 - 掘金</title>
         </bookmark>
       </folder>
-      <folder id="2391">
-        <title>Compose</title>
-        <bookmark href="https://juejin.cn/post/7532287059374620715" id="2522">
-          <title>学会用最优雅的姿式在Compose中显示富文本富文本是UI中非常重要的一个元素，但官方API往往非常繁琐。本文将教会你封 - 掘金</title>
-        </bookmark>
-      </folder>
       <folder id="2394">
         <title>Json</title>
         <folder id="2523">
@@ -2968,9 +2953,6 @@
           <folder id="2664">
             <title>moshi</title>
             <bookmark href="https://juejin.cn/post/7275150831942762535" id="2751">
-              <title>Moshi 支持 Int/Long 类型 enum - 掘金</title>
-            </bookmark>
-            <bookmark href="https://juejin.cn/post/7275150831942762535" id="2752">
               <title>Moshi 支持 Int/Long 类型 enum - 掘金</title>
             </bookmark>
           </folder>
@@ -2981,15 +2963,6 @@
             <title>常用 JSON 库性能对比: Gson VS Moshi VS Kotlin Serialization VS ... - 掘金</title>
           </bookmark>
           <bookmark href="https://fanyi.youdao.com/#/TextTranslate" id="2667">
-            <title>有道翻译_文本、文档、网页、在线即时翻译</title>
-          </bookmark>
-          <bookmark href="https://github.com/RicardoJiang/json-benchmark" id="2668">
-            <title>RicardoJiang/json-benchmark: Json Deserialization benchmark</title>
-          </bookmark>
-          <bookmark href="https://juejin.cn/post/7287083662758379554" id="2669">
-            <title>常用 JSON 库性能对比: Gson VS Moshi VS Kotlin Serialization VS ... - 掘金</title>
-          </bookmark>
-          <bookmark href="https://fanyi.youdao.com/#/TextTranslate" id="2670">
             <title>有道翻译_文本、文档、网页、在线即时翻译</title>
           </bookmark>
         </folder>
@@ -3006,13 +2979,13 @@
       <bookmark href="https://juejin.cn/post/7591322050240331814" id="2399">
         <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
       </bookmark>
-      <folder id="2400">
-        <title>OpenGL / OpenCV</title>
-        <bookmark href="https://blog.csdn.net/tangfuling1991/article/details/118075815" id="2526">
-          <title>UE4.26移动端Android/iOS实现动态DynamicMeshBool_ue4 ios 动态库-CSDN博客</title>
+      <folder id="2945">
+        <title>UseCase</title>
+        <bookmark href="https://juejin.cn/post/7373590621246717971" id="2947">
+          <title>Android 架构之 UseCase 最佳实践Android 官方的最新架构中引入了 Domain Layer，其核心 - 掘金</title>
         </bookmark>
-        <bookmark href="https://juejin.cn/post/7591338980693393454" id="2527">
-          <title>『OpenGL学习滤镜相机』- Day 11: 实时滤镜效果📚 今日目标 掌握常见滤镜算法的原理和实现 学习色彩空间转 - 掘金</title>
+        <bookmark href="https://juejin.cn/post/7230597098847092791" id="2948">
+          <title>Android 官方架构中的 UseCase 该怎么写？UseCase 的用途 Android 最新的架构规范中，引入了 - 掘金</title>
         </bookmark>
       </folder>
     </folder>
@@ -3935,21 +3908,27 @@
       <title>贝塞尔曲线</title>
     </bookmark>
   </folder>
-  <bookmark href="https://lanhuapp.com/web/#/item/project/detailDetach?pid=a8171136-cb56-4924-b7f3-b2f79a407ba6&amp;image_id=3fa3c277-f112-4f90-aa87-6cc283cae7a9&amp;tid=5a620675-63c7-48dd-98bb-950dec5d3939&amp;project_id=a8171136-cb56-4924-b7f3-b2f79a407ba6&amp;fromEditor=true&amp;type=image" id="112">
-    <title>标注-治理设置-有数据-开发_B30 - 蓝湖</title>
-  </bookmark>
-  <bookmark href="https://www.one-tab.com/page/VwGE7-wVTF6yKL4RWdCVpw" id="113">
-    <title>OneTab - 0903</title>
-  </bookmark>
-  <bookmark href="https://www.coze.cn/" id="2939">
-    <title>扣子(国内)</title>
-  </bookmark>
-  <bookmark href="https://www.coze.com/" id="2941">
-    <title>Coze(海外)</title>
-  </bookmark>
+  <folder id="2944">
+    <title>AI</title>
+    <bookmark href="https://chat.openai.com/" id="22">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://www.coze.cn/" id="2939">
+      <title>扣子(国内)</title>
+    </bookmark>
+    <bookmark href="https://www.coze.com/" id="2941">
+      <title>Coze(海外)</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
+  <folder id="183">
+    <title>tmp</title>
+    <bookmark href="file:///Users/mercer/Desktop/record/bookmarks_2022_8_27.html" id="1067">
+      <title>Bookmarks</title>
+    </bookmark>
+  </folder>
   <folder id="29">
     <title>Gitlab</title>
     <bookmark href="https://www.baidu.com/s?wd=GitLab%20Maven%20%E5%AD%98%E5%82%A8%E5%BA%93&amp;pn=20&amp;oq=GitLab%20Maven%20%E5%AD%98%E5%82%A8%E5%BA%93&amp;tn=baiduhome_pg&amp;ie=utf-8&amp;rsv_idx=2&amp;rsv_pq=ab07f11b000e5e59&amp;rsv_t=8204xPABjLWHyHDo6RIpc8wBFSG%2BTc5%2Fm8O5Ki6Yw1OEiSK2%2BdD5G%2F03%2BVyT%2BpA8moiu&amp;topic_pn=&amp;rsv_page=1" id="127">
@@ -4040,6 +4019,24 @@
       <title>使用 Jitpack 发布你的 Android 库 - 掘金</title>
     </bookmark>
   </folder>
+  <bookmark href="https://tech.meituan.com/2021/01/22/flutter-in-harmonyos.html" id="327">
+    <title>让 Flutter 在鸿蒙系统上跑起来 - 美团技术团队</title>
+  </bookmark>
+  <bookmark href="https://juejin.cn/post/7273028821762719803" id="328">
+    <title>AnimationPreviewer - 快速预览Lottie&amp;SVGA的Mac小工具 - 掘金</title>
+  </bookmark>
+  <bookmark href="https://juejin.cn/post/7197344766660313125" id="329">
+    <title>Jetpack Compose 版幕布效果，学习如何实现一个对角线滚动 - 掘金</title>
+  </bookmark>
+  <bookmark href="https://juejin.cn/post/7308621051524792357#heading-18" id="330">
+    <title>Jetpack Compose 优化之Skip, 长计算和布局优化 - 掘金</title>
+  </bookmark>
+  <bookmark href="https://github.com/LuckSiege/PictureSelector" id="331">
+    <title>LuckSiege/PictureSelector: Picture Selector Library for Android or 图片选择器</title>
+  </bookmark>
+  <bookmark href="https://api.oioweb.cn/" id="332">
+    <title>教书先生API - 提供免费接口调用平台</title>
+  </bookmark>
   <folder id="34">
     <title>面试</title>
     <bookmark href="https://github.com/yangkun19921001/Blog/blob/master/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95/Android%E9%AB%98%E7%BA%A7%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E8%AF%95%E5%BF%85%E5%A4%87/README.md" id="157">
@@ -5957,7 +5954,7 @@
       <title>OneTab - 1217</title>
     </bookmark>
   </folder>
-  <folder id="183">
+  <folder id="2946">
     <title>tmp</title>
     <bookmark href="https://flutterchina.club/cookbook/networking/web-sockets/" id="470">
       <title>使用WebSockets - Flutter中文网</title>
@@ -7750,7 +7747,7 @@
     <bookmark href="https://base64.us/" id="1066">
       <title>Base64 在线编码解码 | Base64 加密解密 - Base64.us</title>
     </bookmark>
-    <bookmark href="file:///Users/mercer/Desktop/record/bookmarks_2022_8_27.html" id="1067">
+    <bookmark href="file:///Users/mercer/Desktop/record/bookmarks_2022_8_27.html" id="2949">
       <title>Bookmarks</title>
     </bookmark>
     <bookmark href="https://www.ezqaq.com/22835.html" id="1068">
@@ -8795,23 +8792,5 @@
       <title>ArdWang/YModemlib_Android: This is Android YModem</title>
     </bookmark>
   </folder>
-  <bookmark href="https://tech.meituan.com/2021/01/22/flutter-in-harmonyos.html" id="327">
-    <title>让 Flutter 在鸿蒙系统上跑起来 - 美团技术团队</title>
-  </bookmark>
-  <bookmark href="https://juejin.cn/post/7273028821762719803" id="328">
-    <title>AnimationPreviewer - 快速预览Lottie&amp;SVGA的Mac小工具 - 掘金</title>
-  </bookmark>
-  <bookmark href="https://juejin.cn/post/7197344766660313125" id="329">
-    <title>Jetpack Compose 版幕布效果，学习如何实现一个对角线滚动 - 掘金</title>
-  </bookmark>
-  <bookmark href="https://juejin.cn/post/7308621051524792357#heading-18" id="330">
-    <title>Jetpack Compose 优化之Skip, 长计算和布局优化 - 掘金</title>
-  </bookmark>
-  <bookmark href="https://github.com/LuckSiege/PictureSelector" id="331">
-    <title>LuckSiege/PictureSelector: Picture Selector Library for Android or 图片选择器</title>
-  </bookmark>
-  <bookmark href="https://api.oioweb.cn/" id="332">
-    <title>教书先生API - 提供免费接口调用平台</title>
-  </bookmark>
 </folder>
 </xbel>
