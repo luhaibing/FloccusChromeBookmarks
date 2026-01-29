@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2929: for Floccus bookmark sync browser extension -->
+<!--- highestId :2930: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -172,6 +172,9 @@
     <bookmark href="https://mastergo.com/files/shared" id="1048">
       <title>MasterGo</title>
     </bookmark>
+    <bookmark href="https://www.one-tab.com/page/ZWr71z94TGWJ9zGUOwEcEA" id="1049">
+      <title>OneTab - 1209</title>
+    </bookmark>
   </folder>
   <bookmark href="https://my.qidian.com/bookcase" id="24">
     <title>书架</title>
@@ -216,9 +219,6 @@
     </bookmark>
     <bookmark href="https://chrome.google.com/webstore/detail/stay-flo/egpmoffkahilephjdbpojnniapjhooka" id="1057">
       <title>Stay Flo</title>
-    </bookmark>
-    <bookmark href="https://crxdl.com/" id="2928">
-      <title>Chrome插件下载站</title>
     </bookmark>
   </folder>
   <folder id="32">
@@ -578,9 +578,6 @@
       </bookmark>
       <bookmark href="https://juejin.cn/post/7230597098847092791" id="1404">
         <title>Android 官方架构中的 UseCase 该怎么写？UseCase 的用途 Android 最新的架构规范中，引入了 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7515707680925843507" id="2929">
-        <title>使用用例（Use Case）以让Android代码更简洁以具体的代码实例，教会你使用清晰、可测试且支持协程的用例（Use - 掘金</title>
       </bookmark>
     </folder>
     <bookmark href="https://juejin.cn/post/7420248650607099941" id="1075">
@@ -2439,6 +2436,9 @@
       <bookmark href="https://juejin.cn/post/6974388756275019812" id="2830">
         <title>Android字体系列 （三）：Xml中的字体 - 掘金</title>
       </bookmark>
+      <bookmark href="https://juejin.cn/post/6844904083728367629" id="2930">
+        <title>Android tools &amp; sample data: Make preview great again - 掘金</title>
+      </bookmark>
       <bookmark href="https://juejin.cn/post/7243725397858336805" id="2832">
         <title>BrickUI，基于Android View体系撸一个声明式UI框架 - 掘金</title>
       </bookmark>
@@ -3806,9 +3806,6 @@
       </bookmark>
       <bookmark href="https://www.coze.cn/store/agent/7345673297092395018?bid=6elblk83o3g13" id="2143">
         <title>Android技术专家 - 扣子</title>
-      </bookmark>
-      <bookmark href="https://app.yunchengoa.com/3603557351967/dsbs.html?jx=s2.p4647429.g34865595.k.c108812412&amp;sourceid=smIYUL4yH6I0&amp;mvosr=smIYUL4yH6I0&amp;mvaid=1358721" id="1251">
-        <title>DeepSeek本地部署工具 - 超强AI零基础一键安装到本地电脑</title>
       </bookmark>
     </folder>
     <folder id="2101">
@@ -8689,6 +8686,9 @@
     <bookmark href="https://www.one-tab.com/page/l302J1psQFidjHBHOnRfVw" id="1250">
       <title>OneTab - 1014</title>
     </bookmark>
+    <bookmark href="https://app.yunchengoa.com/3603557351967/dsbs.html?jx=s2.p4647429.g34865595.k.c108812412&amp;sourceid=smIYUL4yH6I0&amp;mvosr=smIYUL4yH6I0&amp;mvaid=1358721" id="1251">
+      <title>DeepSeek本地部署工具 - 超强AI零基础一键安装到本地电脑</title>
+    </bookmark>
     <bookmark href="https://www.one-tab.com/page/qcHAnXskRhGig1O2SSCj8A" id="1252">
       <title>OneTab - 27</title>
     </bookmark>
@@ -8703,9 +8703,6 @@
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/JrDVBQ5iRWOkkytIZT07ow" id="1256">
       <title>OneTab - 1217</title>
-    </bookmark>
-    <bookmark href="https://www.one-tab.com/page/ZWr71z94TGWJ9zGUOwEcEA" id="1049">
-      <title>OneTab - 1209</title>
     </bookmark>
   </folder>
   <folder id="1019">
