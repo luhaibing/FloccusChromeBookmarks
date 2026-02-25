@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2949: for Floccus bookmark sync browser extension -->
+<!--- highestId :2951: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -610,6 +610,12 @@
     <bookmark href="https://juejin.cn/post/7540524749425180735" id="2934">
       <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
     </bookmark>
+    <folder id="2950">
+      <title>状态栏</title>
+      <bookmark href="https://juejin.cn/post/7252231214529282085" id="2951">
+        <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="35">
     <title>区块链</title>
