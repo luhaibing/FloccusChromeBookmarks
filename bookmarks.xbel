@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2951: for Floccus bookmark sync browser extension -->
+<!--- highestId :2953: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -597,6 +597,9 @@
       <bookmark href="https://juejin.cn/post/7544949169640783906" id="2944">
         <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
       </bookmark>
+      <bookmark href="https://juejin.cn/post/7602497125268946950" id="2952">
+        <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
+      </bookmark>
     </folder>
     <folder id="2945">
       <title>视频播放</title>
@@ -616,6 +619,9 @@
         <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
       </bookmark>
     </folder>
+    <bookmark href="https://juejin.cn/post/7603994823326547978" id="2953">
+      <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
+    </bookmark>
   </folder>
   <folder id="35">
     <title>区块链</title>
