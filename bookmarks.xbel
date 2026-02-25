@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2933: for Floccus bookmark sync browser extension -->
+<!--- highestId :2949: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -591,6 +591,24 @@
     </bookmark>
     <bookmark href="https://juejin.cn/post/6966889962721673252" id="1076">
       <title>Android 中各种 span 用法在android.text.style包下，有一些Span类，可以提供我们完成一些 - 掘金</title>
+    </bookmark>
+    <folder id="2943">
+      <title>Compose</title>
+      <bookmark href="https://juejin.cn/post/7544949169640783906" id="2944">
+        <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
+      </bookmark>
+    </folder>
+    <folder id="2945">
+      <title>视频播放</title>
+      <bookmark href="https://juejin.cn/post/7562005555583909939" id="2948">
+        <title>Jetpack —＞ Media3的分析和使用​  🧩 一、Media3 是什么？ Media3 是 Google 将 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7589275237038243875" id="2949">
+        <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://juejin.cn/post/7540524749425180735" id="2934">
+      <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
     </bookmark>
   </folder>
   <folder id="35">
@@ -3365,9 +3383,6 @@
         <bookmark href="https://juejin.cn/post/7435659292868476964" id="2233">
           <title>Flutter 小技巧之 Shader 实现酷炫的粒子动画在之前的《Flutter 小技巧之不一样的思路实现炫酷 3D - 掘金</title>
         </bookmark>
-        <bookmark href="https://juejin.cn/post/7484589584719626279" id="2234">
-          <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="1582">
         <title>动画</title>
@@ -3895,6 +3910,36 @@
     <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
       <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
     </bookmark>
+    <bookmark href="https://juejin.cn/post/7579673620940308530" id="2935">
+      <title>Flutter 3.38 动画新特性：动画引擎有什么新变化？Flutter 3.38 为其动画引擎带来了颠覆性的更新 ， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7506590644543553548" id="2936">
+      <title>Flutter 小技巧之：Flutter 3.32 的 Property Editor 生产力工具快速介绍一下 Flut - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7514115291593981963" id="2937">
+      <title>Flutter 多版本管理工具 Puro ，它和 FVM 有什么区别？你平常是如何管理本地的 Flutter 版本？是每 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7283827523002859576" id="2938">
+      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7479474972849143844" id="2939">
+      <title>再聊 Flutter Riverpod ，注解模式下的 Riverpod 有什么特别之处，还有发展方向三年前我们通过 《 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7292323968853704714" id="2940">
+      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7580740563893977122" id="2941">
+      <title>让 AI 用 Flutter 实现了猗窝座的破坏杀·罗针动画，这个过程如何驯服 AI在经历了之前的《用 AI 做了几个超 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7484589584719626279" id="2234">
+      <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7574621387574034478" id="2942">
+      <title>Flutter ：自己动手，封装一个小巧精致的气泡弹窗库参考PopupMenuButton源码，封装了一个功能丰富的带箭 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7505042954198319141" id="2946">
+      <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
+    </bookmark>
   </folder>
   <folder id="1071">
     <title>Blog</title>
@@ -3912,6 +3957,9 @@
     <title>Tools</title>
     <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
       <title>贝塞尔曲线</title>
+    </bookmark>
+    <bookmark href="https://material-foundation.github.io/material-theme-builder/" id="2947">
+      <title>Material Theme Builder</title>
     </bookmark>
   </folder>
   <folder id="1098">
