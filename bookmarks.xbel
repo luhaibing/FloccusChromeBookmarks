@@ -1391,9 +1391,6 @@
             <title>Android连接蓝牙打印机 - 简书</title>
           </bookmark>
         </folder>
-        <bookmark href="https://github.com/NordicSemiconductor" id="2528">
-          <title>Nordic Semiconductor</title>
-        </bookmark>
         <bookmark href="https://zh.wikipedia.org/wiki/%E8%93%9D%E7%89%99%E4%BD%8E%E5%8A%9F%E8%80%97" id="2529">
           <title>蓝牙低功耗 - 维基百科，自由的百科全书</title>
         </bookmark>
@@ -1669,9 +1666,6 @@
         </bookmark>
         <bookmark href="https://github.com/liangjingkanji/BRV" id="2593">
           <title>liangjingkanji/BRV: [文档详细] Android 快速构建 RecyclerView, 比 BRVAH 更简单强大</title>
-        </bookmark>
-        <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2594">
-          <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
         </bookmark>
         <bookmark href="https://github.com/javakam/FileOperator" id="2595">
           <title>javakam/FileOperator: 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。</title>
@@ -2876,9 +2870,6 @@
       </folder>
       <folder id="2063">
         <title>Lifecycle</title>
-        <bookmark href="https://juejin.cn/post/7456055170322972735" id="2435">
-          <title>理解Jetpack--LifecycleLifecycle是什么 Lifecycle也是Jetpack家族中的一员。它能 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2083">
         <title>OpenGL</title>
