@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2964: for Floccus bookmark sync browser extension -->
+<!--- highestId :2966: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -2164,11 +2164,11 @@
           <bookmark href="https://github.com/YoKeyword/Fragmentation" id="2893">
             <title>YoKeyword/Fragmentation: A powerful library that manage Fragment for Android!</title>
           </bookmark>
-          <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
-            <title>iReaderAndroid/X2C</title>
-          </bookmark>
           <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2955">
             <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
+          </bookmark>
+          <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
+            <title>iReaderAndroid/X2C</title>
           </bookmark>
         </folder>
         <folder id="2767">
@@ -2477,9 +2477,6 @@
       </bookmark>
       <bookmark href="https://www.wanandroid.com/blog/show/2" id="2843">
         <title>玩Android 开放API-玩Android - wanandroid.com</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/6856637313964441614" id="2844">
-        <title>这15个Android开源库，只有经常逛Github的才知道！</title>
       </bookmark>
       <bookmark href="https://imholiday.cn/2020/07/26/Android-xml%E5%92%8Cview%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/" id="2845">
         <title>Android | xml和view的那些事 | Holiday</title>
@@ -2970,11 +2967,11 @@
       <bookmark href="https://juejin.cn/post/7416604150932193314" id="2448">
         <title>Android混淆 | consumerProguardFiles 和 proguardFiles有什么区别在 Andr - 掘金</title>
       </bookmark>
-      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
-        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
-      </bookmark>
       <bookmark href="https://juejin.cn/post/7366913974624059427" id="2451">
         <title>如何让不同Activity之间共享同一个ViewModel问题背景 存在一个场景，在Acitivity1可以跳转到Act - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
+        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
       </bookmark>
       <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2450">
         <title>OneTab -  0415</title>
@@ -2988,6 +2985,12 @@
       <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
         <title>阿里云-gradle-开源镜像站</title>
       </bookmark>
+      <folder id="2965">
+        <title>OpenGL</title>
+        <bookmark href="https://juejin.cn/post/7501525550746878002" id="2966">
+          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
+        </bookmark>
+      </folder>
       <folder id="2959">
         <title>多语言</title>
         <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
