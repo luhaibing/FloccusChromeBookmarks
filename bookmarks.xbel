@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2966: for Floccus bookmark sync browser extension -->
+<!--- highestId :2987: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -2128,6 +2128,9 @@
               <title>CyberAgent/android-gpuimage</title>
             </bookmark>
           </folder>
+          <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2955">
+            <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
+          </bookmark>
           <bookmark href="https://github.com/baoyongzhang/Treasure" id="2882">
             <title>baoyongzhang/Treasure</title>
           </bookmark>
@@ -2163,9 +2166,6 @@
           </bookmark>
           <bookmark href="https://github.com/YoKeyword/Fragmentation" id="2893">
             <title>YoKeyword/Fragmentation: A powerful library that manage Fragment for Android!</title>
-          </bookmark>
-          <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2955">
-            <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
           </bookmark>
           <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
             <title>iReaderAndroid/X2C</title>
@@ -2561,6 +2561,9 @@
       </bookmark>
       <bookmark href="https://juejin.cn/post/7239552256168575033" id="2872">
         <title>Android组件化 aar/源码调试切换方案一、前言 一个Android项目在不断地迭代之后，项目代码会变多，业务会膨 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/6856637313964441614" id="2969">
+        <title>这15个Android开源库，只有经常逛Github的才知道！</title>
       </bookmark>
     </folder>
     <folder id="1298">
@@ -2985,12 +2988,6 @@
       <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
         <title>阿里云-gradle-开源镜像站</title>
       </bookmark>
-      <folder id="2965">
-        <title>OpenGL</title>
-        <bookmark href="https://juejin.cn/post/7501525550746878002" id="2966">
-          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
-        </bookmark>
-      </folder>
       <folder id="2959">
         <title>多语言</title>
         <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
@@ -3012,6 +3009,36 @@
       <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
         <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
       </bookmark>
+      <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
+        <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
+        <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
+      </bookmark>
+      <folder id="2973">
+        <title>Compose</title>
+        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2977">
+          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7602497125268946950" id="2978">
+          <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2974">
+        <title>视频播放</title>
+        <bookmark href="https://juejin.cn/post/7562005555583909939" id="2979">
+          <title>Jetpack —＞ Media3的分析和使用​  🧩 一、Media3 是什么？ Media3 是 Google 将 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7589275237038243875" id="2980">
+          <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2975">
+        <title>状态栏</title>
+        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
+          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
+        </bookmark>
+      </folder>
     </folder>
     <folder id="1299">
       <title>Kotlin</title>
@@ -3385,9 +3412,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7435659292868476964" id="2233">
           <title>Flutter 小技巧之 Shader 实现酷炫的粒子动画在之前的《Flutter 小技巧之不一样的思路实现炫酷 3D - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7484589584719626279" id="2234">
-          <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
         </bookmark>
       </folder>
       <folder id="1582">
@@ -3910,17 +3934,47 @@
   </folder>
   <folder id="1058">
     <title>Flutter</title>
+    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
+      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
+      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
+    </bookmark>
     <bookmark href="https://juejin.cn/post/7498914140167159845" id="1306">
       <title>【Flutter 状态管理 - 捌】 | InheritedNotifier：轻量级原生状态管理工具 ✨Inherit - 掘金</title>
     </bookmark>
     <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
       <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
     </bookmark>
-    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
-      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
+    <bookmark href="https://juejin.cn/post/7579673620940308530" id="2970">
+      <title>Flutter 3.38 动画新特性：动画引擎有什么新变化？Flutter 3.38 为其动画引擎带来了颠覆性的更新 ， - 掘金</title>
     </bookmark>
-    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
-      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
+    <bookmark href="https://juejin.cn/post/7506590644543553548" id="2971">
+      <title>Flutter 小技巧之：Flutter 3.32 的 Property Editor 生产力工具快速介绍一下 Flut - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7514115291593981963" id="2972">
+      <title>Flutter 多版本管理工具 Puro ，它和 FVM 有什么区别？你平常是如何管理本地的 Flutter 版本？是每 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7283827523002859576" id="2976">
+      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7479474972849143844" id="2982">
+      <title>再聊 Flutter Riverpod ，注解模式下的 Riverpod 有什么特别之处，还有发展方向三年前我们通过 《 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7292323968853704714" id="2983">
+      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7580740563893977122" id="2984">
+      <title>让 AI 用 Flutter 实现了猗窝座的破坏杀·罗针动画，这个过程如何驯服 AI在经历了之前的《用 AI 做了几个超 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7484589584719626279" id="2234">
+      <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7574621387574034478" id="2985">
+      <title>Flutter ：自己动手，封装一个小巧精致的气泡弹窗库参考PopupMenuButton源码，封装了一个功能丰富的带箭 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7505042954198319141" id="2986">
+      <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
     </bookmark>
   </folder>
   <folder id="1071">
@@ -3939,6 +3993,9 @@
     <title>Tools</title>
     <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
       <title>贝塞尔曲线</title>
+    </bookmark>
+    <bookmark href="https://material-foundation.github.io/material-theme-builder/" id="2987">
+      <title>Material Theme Builder</title>
     </bookmark>
   </folder>
   <folder id="1098">
