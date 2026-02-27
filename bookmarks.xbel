@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3006: for Floccus bookmark sync browser extension -->
+<!--- highestId :3011: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -705,8 +705,26 @@
       <folder id="1547">
         <title>Compose</title>
       </folder>
+      <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
+        <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
+        <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
+      </bookmark>
+      <folder id="2974">
+        <title>视频播放</title>
+      </folder>
+      <bookmark href="https://juejin.cn/post/7517093666454044672" id="2998">
+        <title>Android请求优先级调度策略杂谈 在移动应用开发中，有效管理任务优先级是提升用户体验的关键技术。本文将全面解析And - 掘金</title>
+      </bookmark>
+      <folder id="2975">
+        <title>状态栏</title>
+      </folder>
       <folder id="2083">
         <title>OpenGL</title>
+        <bookmark href="https://juejin.cn/post/7501525550746878002" id="3008">
+          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
+        </bookmark>
         <bookmark href="https://juejin.cn/post/7475157287683588135" id="2437">
           <title>Android OpenGLES2.0开发（十一）：渲染YUV本章我们学习了如何将YUV原数据通过OpenGL显示，该方 - 掘金</title>
         </bookmark>
@@ -725,25 +743,22 @@
       </folder>
       <folder id="2959">
         <title>多语言</title>
+        <bookmark href="https://juejin.cn/post/7541048117497561126" id="3009">
+          <title>Android 项目 通过 AndroidStringsTool 更新多语言词条1. 概述 项目有时候需要更新多语言词条 - 掘金</title>
+        </bookmark>
       </folder>
       <folder id="2960">
         <title>依赖注入</title>
+        <bookmark href="https://juejin.cn/post/7543451693477167150" id="3010">
+          <title>Koin：Kotlin轻量级依赖注入框架在 Android 开发中，依赖注入（DI）是一种重要的设计模式，它能帮助我们降 - 掘金</title>
+        </bookmark>
       </folder>
       <folder id="2961">
         <title>RecyclerView</title>
+        <bookmark href="https://juejin.cn/post/7539961344214073354" id="3011">
+          <title>RecyclerView超长列表优化对于包含10万+项的超长列表，RecyclerView需要针对性地优化内存、加载效率 - 掘金</title>
+        </bookmark>
       </folder>
-      <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
-        <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
-        <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
-      </bookmark>
-      <folder id="2974">
-        <title>视频播放</title>
-      </folder>
-      <bookmark href="https://juejin.cn/post/7517093666454044672" id="2998">
-        <title>Android请求优先级调度策略杂谈 在移动应用开发中，有效管理任务优先级是提升用户体验的关键技术。本文将全面解析And - 掘金</title>
-      </bookmark>
       <folder id="3000">
         <title>视频播放</title>
         <bookmark href="https://juejin.cn/post/7562005555583909939" id="2979">
@@ -751,6 +766,18 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7589275237038243875" id="2980">
           <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="3001">
+        <title>状态栏</title>
+        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
+          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
+          <title>玩转Android状态栏 评论有点意思</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
+          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
       <folder id="3002">
@@ -763,12 +790,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7600663744192069668" id="3003">
           <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="2975">
-        <title>状态栏</title>
-        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
-          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
     </folder>
@@ -2715,15 +2736,6 @@
       <bookmark href="https://juejin.cn/post/6856637313964441614" id="2969">
         <title>这15个Android开源库，只有经常逛Github的才知道！</title>
       </bookmark>
-      <folder id="3001">
-        <title>状态栏</title>
-        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
-          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
-          <title>玩转Android状态栏 评论有点意思</title>
-        </bookmark>
-      </folder>
     </folder>
     <folder id="3005">
       <title>Android</title>
@@ -4025,6 +4037,9 @@
       <title>这是一份全面 &amp; 详细的Android Studio插件开发指南手把手教你开发一个Anroid Studio插件！采用最 - 掘金</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.one-tab.com/page/9MtfgHU9Rc6QH84czLk0_w" id="3007">
+    <title>OneTab - 20260228</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
