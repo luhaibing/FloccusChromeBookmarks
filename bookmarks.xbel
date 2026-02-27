@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2987: for Floccus bookmark sync browser extension -->
+<!--- highestId :2994: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -2170,6 +2170,9 @@
           <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
             <title>iReaderAndroid/X2C</title>
           </bookmark>
+          <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2988">
+            <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
+          </bookmark>
         </folder>
         <folder id="2767">
           <title>aop</title>
@@ -2990,21 +2993,12 @@
       </bookmark>
       <folder id="2959">
         <title>多语言</title>
-        <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
-          <title>Android 项目 通过 AndroidStringsTool 更新多语言词条1. 概述 项目有时候需要更新多语言词条 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2960">
         <title>依赖注入</title>
-        <bookmark href="https://juejin.cn/post/7543451693477167150" id="2963">
-          <title>Koin：Kotlin轻量级依赖注入框架在 Android 开发中，依赖注入（DI）是一种重要的设计模式，它能帮助我们降 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2961">
         <title>RecyclerView</title>
-        <bookmark href="https://juejin.cn/post/7539961344214073354" id="2964">
-          <title>RecyclerView超长列表优化对于包含10万+项的超长列表，RecyclerView需要针对性地优化内存、加载效率 - 掘金</title>
-        </bookmark>
       </folder>
       <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
         <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
@@ -3015,15 +3009,6 @@
       <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
         <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
       </bookmark>
-      <folder id="2973">
-        <title>Compose</title>
-        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2977">
-          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7602497125268946950" id="2978">
-          <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
-        </bookmark>
-      </folder>
       <folder id="2974">
         <title>视频播放</title>
         <bookmark href="https://juejin.cn/post/7562005555583909939" id="2979">
@@ -3037,6 +3022,30 @@
         <title>状态栏</title>
         <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
           <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2990">
+        <title>多语言</title>
+        <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
+          <title>Android 项目 通过 AndroidStringsTool 更新多语言词条1. 概述 项目有时候需要更新多语言词条 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2991">
+        <title>依赖注入</title>
+        <bookmark href="https://juejin.cn/post/7543451693477167150" id="2963">
+          <title>Koin：Kotlin轻量级依赖注入框架在 Android 开发中，依赖注入（DI）是一种重要的设计模式，它能帮助我们降 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2992">
+        <title>RecyclerView</title>
+        <bookmark href="https://juejin.cn/post/7539961344214073354" id="2964">
+          <title>RecyclerView超长列表优化对于包含10万+项的超长列表，RecyclerView需要针对性地优化内存、加载效率 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2993">
+        <title>OpenGL</title>
+        <bookmark href="https://juejin.cn/post/7501525550746878002" id="2994">
+          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
         </bookmark>
       </folder>
     </folder>
@@ -3412,6 +3421,9 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7435659292868476964" id="2233">
           <title>Flutter 小技巧之 Shader 实现酷炫的粒子动画在之前的《Flutter 小技巧之不一样的思路实现炫酷 3D - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7484589584719626279" id="2989">
+          <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
         </bookmark>
       </folder>
       <folder id="1582">
@@ -3934,18 +3946,6 @@
   </folder>
   <folder id="1058">
     <title>Flutter</title>
-    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
-      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
-      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7498914140167159845" id="1306">
-      <title>【Flutter 状态管理 - 捌】 | InheritedNotifier：轻量级原生状态管理工具 ✨Inherit - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
-      <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
-    </bookmark>
     <bookmark href="https://juejin.cn/post/7579673620940308530" id="2970">
       <title>Flutter 3.38 动画新特性：动画引擎有什么新变化？Flutter 3.38 为其动画引擎带来了颠覆性的更新 ， - 掘金</title>
     </bookmark>
@@ -3976,6 +3976,18 @@
     <bookmark href="https://juejin.cn/post/7505042954198319141" id="2986">
       <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
     </bookmark>
+    <bookmark href="https://juejin.cn/post/7498914140167159845" id="1306">
+      <title>【Flutter 状态管理 - 捌】 | InheritedNotifier：轻量级原生状态管理工具 ✨Inherit - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
+      <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
+      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
+      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
+    </bookmark>
   </folder>
   <folder id="1071">
     <title>Blog</title>
@@ -3991,11 +4003,11 @@
   </folder>
   <folder id="1093">
     <title>Tools</title>
-    <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
-      <title>贝塞尔曲线</title>
-    </bookmark>
     <bookmark href="https://material-foundation.github.io/material-theme-builder/" id="2987">
       <title>Material Theme Builder</title>
+    </bookmark>
+    <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
+      <title>贝塞尔曲线</title>
     </bookmark>
   </folder>
   <folder id="1098">
