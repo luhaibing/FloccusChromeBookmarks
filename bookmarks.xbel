@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2994: for Floccus bookmark sync browser extension -->
+<!--- highestId :2997: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -2167,11 +2167,11 @@
           <bookmark href="https://github.com/YoKeyword/Fragmentation" id="2893">
             <title>YoKeyword/Fragmentation: A powerful library that manage Fragment for Android!</title>
           </bookmark>
-          <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
-            <title>iReaderAndroid/X2C</title>
-          </bookmark>
           <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2988">
             <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
+          </bookmark>
+          <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
+            <title>iReaderAndroid/X2C</title>
           </bookmark>
         </folder>
         <folder id="2767">
@@ -2678,6 +2678,12 @@
       </folder>
       <folder id="1547">
         <title>Compose</title>
+        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2995">
+          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7602497125268946950" id="2996">
+          <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
+        </bookmark>
         <bookmark href="https://github.com/fengzhizi715/Monica" id="2064">
           <title>fengzhizi715/Monica: Monica is a cross-platform desktop image editing software with the UI layer built using Kotlin Compose Desktop. Some algorithms are implemented in Kotlin, while others are implemented in OpenCV C++. Kotlin interacts with the C++ algorithms through JNI.</title>
         </bookmark>
@@ -2961,36 +2967,6 @@
           <title>Kotlin最强Json/Protobuf解析框架 - kotlin-serialization使用kotlin-ser - 掘金</title>
         </bookmark>
       </folder>
-      <bookmark href="https://juejin.cn/post/7043599083679776799" id="2445">
-        <title>你都知道么？Android中21种drawable标签大全我们在drawable目录下可以创建很多自定义的资源，其中用的 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7312724126241701927" id="2446">
-        <title>Android使用MediaPipe + FFmpeg生成绿幕视频主要记录通过MediaPipe进行人像分割，再对每一帧 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7426319406358200355" id="2447">
-        <title>Android15使用WinscopeWinscope 是一款 Web 工具，可以让用户在动画和转换期间和之后记录、重放 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7416604150932193314" id="2448">
-        <title>Android混淆 | consumerProguardFiles 和 proguardFiles有什么区别在 Andr - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7366913974624059427" id="2451">
-        <title>如何让不同Activity之间共享同一个ViewModel问题背景 存在一个场景，在Acitivity1可以跳转到Act - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
-        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2450">
-        <title>OneTab -  0415</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7374677514536812571" id="2452">
-        <title>AGP 8.0 路由框架新思路前言 说到路由又是老生长谈了，阿里的 ARouter、美团的WMRouter 这些老牌知名 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7304265842979438630#heading-19" id="2453">
-        <title>[Android开发]推荐一个专属Android 端 AOP 切面框架，没有AspectJ，只需一个注解就可以请求权限、切换线程、禁止多点、监测生命周期等等 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
-        <title>阿里云-gradle-开源镜像站</title>
-      </bookmark>
       <folder id="2959">
         <title>多语言</title>
       </folder>
@@ -3000,8 +2976,8 @@
       <folder id="2961">
         <title>RecyclerView</title>
       </folder>
-      <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
-        <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
+      <bookmark href="https://juejin.cn/post/7366913974624059427" id="2451">
+        <title>如何让不同Activity之间共享同一个ViewModel问题背景 存在一个场景，在Acitivity1可以跳转到Act - 掘金</title>
       </bookmark>
       <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
         <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
@@ -3024,6 +3000,33 @@
           <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
+      <bookmark href="https://juejin.cn/post/7043599083679776799" id="2445">
+        <title>你都知道么？Android中21种drawable标签大全我们在drawable目录下可以创建很多自定义的资源，其中用的 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7312724126241701927" id="2446">
+        <title>Android使用MediaPipe + FFmpeg生成绿幕视频主要记录通过MediaPipe进行人像分割，再对每一帧 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7426319406358200355" id="2447">
+        <title>Android15使用WinscopeWinscope 是一款 Web 工具，可以让用户在动画和转换期间和之后记录、重放 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7416604150932193314" id="2448">
+        <title>Android混淆 | consumerProguardFiles 和 proguardFiles有什么区别在 Andr - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
+        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2450">
+        <title>OneTab -  0415</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7374677514536812571" id="2452">
+        <title>AGP 8.0 路由框架新思路前言 说到路由又是老生长谈了，阿里的 ARouter、美团的WMRouter 这些老牌知名 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7304265842979438630#heading-19" id="2453">
+        <title>[Android开发]推荐一个专属Android 端 AOP 切面框架，没有AspectJ，只需一个注解就可以请求权限、切换线程、禁止多点、监测生命周期等等 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
+        <title>阿里云-gradle-开源镜像站</title>
+      </bookmark>
       <folder id="2990">
         <title>多语言</title>
         <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
@@ -3048,6 +3051,9 @@
           <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
         </bookmark>
       </folder>
+      <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
+        <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
+      </bookmark>
     </folder>
     <folder id="1299">
       <title>Kotlin</title>
@@ -4022,6 +4028,9 @@
       <title>Coze(海外)</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.one-tab.com/page/7_2VAoVeRaiYz75hohh-jA" id="2997">
+    <title>OneTab - Shared tabs</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
