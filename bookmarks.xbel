@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2997: for Floccus bookmark sync browser extension -->
+<!--- highestId :3006: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -570,6 +570,9 @@
       <bookmark href="https://github.com/QmDeve/AndroidLiquidGlassView" id="1402">
         <title>QmDeve/AndroidLiquidGlassView: 液态玻璃(LiquidGlass)</title>
       </bookmark>
+      <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2988">
+        <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation</title>
+      </bookmark>
     </folder>
     <folder id="1074">
       <title>UseCase</title>
@@ -696,6 +699,162 @@
     </bookmark>
   </folder>
   <folder id="1055">
+    <title>backup</title>
+    <folder id="1298">
+      <title>Android</title>
+      <folder id="1547">
+        <title>Compose</title>
+      </folder>
+      <folder id="2083">
+        <title>OpenGL</title>
+        <bookmark href="https://juejin.cn/post/7475157287683588135" id="2437">
+          <title>Android OpenGLES2.0开发（十一）：渲染YUV本章我们学习了如何将YUV原数据通过OpenGL显示，该方 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7291802007710793766" id="2438">
+          <title>使用 OpenGL 实例化绘制高性能绘制字符画（带源码） - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7195566746667909180" id="2439">
+          <title>【Android音视频】简简单单入门OpenGL ES加载一张小猫咪图片吧！学习Android音视频绝对绕不开OpenG - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7444378390843342859" id="2440">
+          <title>Android OpenGLES开发：EGL环境搭建本文简述了OpenGL是如何将绘制的图像显示到设备上的，这离不开EG - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7445998974224678948" id="2441">
+          <title>Android OpenGLES2.0开发（三）：绘制一个三角形上一篇文章中，我们已经将OpenGL ES环境搭建完成。 - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2959">
+        <title>多语言</title>
+      </folder>
+      <folder id="2960">
+        <title>依赖注入</title>
+      </folder>
+      <folder id="2961">
+        <title>RecyclerView</title>
+      </folder>
+      <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
+        <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
+        <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
+      </bookmark>
+      <folder id="2974">
+        <title>视频播放</title>
+      </folder>
+      <bookmark href="https://juejin.cn/post/7517093666454044672" id="2998">
+        <title>Android请求优先级调度策略杂谈 在移动应用开发中，有效管理任务优先级是提升用户体验的关键技术。本文将全面解析And - 掘金</title>
+      </bookmark>
+      <folder id="3000">
+        <title>视频播放</title>
+        <bookmark href="https://juejin.cn/post/7562005555583909939" id="2979">
+          <title>Jetpack —＞ Media3的分析和使用​  🧩 一、Media3 是什么？ Media3 是 Google 将 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7589275237038243875" id="2980">
+          <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="3002">
+        <title>Compose</title>
+        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2995">
+          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7602497125268946950" id="2996">
+          <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7600663744192069668" id="3003">
+          <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
+        </bookmark>
+      </folder>
+      <folder id="2975">
+        <title>状态栏</title>
+        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
+          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder>
+  <folder id="1058">
+    <title>Flutter</title>
+    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
+      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
+      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7498914140167159845" id="1306">
+      <title>【Flutter 状态管理 - 捌】 | InheritedNotifier：轻量级原生状态管理工具 ✨Inherit - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
+      <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7579673620940308530" id="2970">
+      <title>Flutter 3.38 动画新特性：动画引擎有什么新变化？Flutter 3.38 为其动画引擎带来了颠覆性的更新 ， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7506590644543553548" id="2971">
+      <title>Flutter 小技巧之：Flutter 3.32 的 Property Editor 生产力工具快速介绍一下 Flut - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7514115291593981963" id="2972">
+      <title>Flutter 多版本管理工具 Puro ，它和 FVM 有什么区别？你平常是如何管理本地的 Flutter 版本？是每 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7283827523002859576" id="2976">
+      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7479474972849143844" id="2982">
+      <title>再聊 Flutter Riverpod ，注解模式下的 Riverpod 有什么特别之处，还有发展方向三年前我们通过 《 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7292323968853704714" id="2983">
+      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7580740563893977122" id="2984">
+      <title>让 AI 用 Flutter 实现了猗窝座的破坏杀·罗针动画，这个过程如何驯服 AI在经历了之前的《用 AI 做了几个超 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7574621387574034478" id="2985">
+      <title>Flutter ：自己动手，封装一个小巧精致的气泡弹窗库参考PopupMenuButton源码，封装了一个功能丰富的带箭 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7505042954198319141" id="2986">
+      <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
+    </bookmark>
+  </folder>
+  <folder id="1071">
+    <title>Blog</title>
+    <bookmark href="https://rengwuxian.com/" id="1399">
+      <title>HenCoder - 扔物线</title>
+    </bookmark>
+  </folder>
+  <folder id="1081">
+    <title>Website</title>
+    <bookmark href="https://www.csdn.net/" id="1405">
+      <title>CSDN</title>
+    </bookmark>
+  </folder>
+  <folder id="1093">
+    <title>Tools</title>
+    <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
+      <title>贝塞尔曲线</title>
+    </bookmark>
+    <bookmark href="https://material-foundation.github.io/material-theme-builder/" id="2987">
+      <title>Material Theme Builder</title>
+    </bookmark>
+  </folder>
+  <folder id="1098">
+    <title>AI</title>
+    <bookmark href="https://chat.openai.com/" id="1407">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://www.coze.cn/" id="1408">
+      <title>扣子(国内)</title>
+    </bookmark>
+    <bookmark href="https://www.coze.com/" id="1409">
+      <title>Coze(海外)</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.one-tab.com/page/7_2VAoVeRaiYz75hohh-jA" id="2997">
+    <title>OneTab - Shared tabs</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/_fnZUK2TQaa0O7IKQFLNiQ" id="2999">
+    <title>OneTab - Shared tabs</title>
+  </bookmark>
+  <folder id="3004">
     <title>backup</title>
     <folder id="1296">
       <title>Java</title>
@@ -1853,12 +2012,6 @@
       </folder>
       <folder id="2648">
         <title>状态栏</title>
-        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
-          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
-          <title>玩转Android状态栏 评论有点意思</title>
-        </bookmark>
       </folder>
       <folder id="2654">
         <title>binder</title>
@@ -2128,9 +2281,6 @@
               <title>CyberAgent/android-gpuimage</title>
             </bookmark>
           </folder>
-          <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2955">
-            <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
-          </bookmark>
           <bookmark href="https://github.com/baoyongzhang/Treasure" id="2882">
             <title>baoyongzhang/Treasure</title>
           </bookmark>
@@ -2166,9 +2316,6 @@
           </bookmark>
           <bookmark href="https://github.com/YoKeyword/Fragmentation" id="2893">
             <title>YoKeyword/Fragmentation: A powerful library that manage Fragment for Android!</title>
-          </bookmark>
-          <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2988">
-            <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
           </bookmark>
           <bookmark href="https://github.com/iReaderAndroid/X2C" id="2894">
             <title>iReaderAndroid/X2C</title>
@@ -2568,9 +2715,111 @@
       <bookmark href="https://juejin.cn/post/6856637313964441614" id="2969">
         <title>这15个Android开源库，只有经常逛Github的才知道！</title>
       </bookmark>
+      <folder id="3001">
+        <title>状态栏</title>
+        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
+          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
+          <title>玩转Android状态栏 评论有点意思</title>
+        </bookmark>
+      </folder>
     </folder>
-    <folder id="1298">
+    <folder id="3005">
       <title>Android</title>
+      <folder id="3006">
+        <title>Compose</title>
+        <bookmark href="https://github.com/fengzhizi715/Monica" id="2064">
+          <title>fengzhizi715/Monica: Monica is a cross-platform desktop image editing software with the UI layer built using Kotlin Compose Desktop. Some algorithms are implemented in Kotlin, while others are implemented in OpenCV C++. Kotlin interacts with the C++ algorithms through JNI.</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7419998480816963624" id="2065">
+          <title>在 Jetpack Compose 中扩展 useRequest 实现自定义数据处理、异常回滚写在前面 本文中提及的us - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7393312386572189736" id="2066">
+          <title>Insets in Jetpack Compose 🖼️Insets 这个单词，直译过来是“插入物”、“插图”、“插页 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7352785768094433289" id="2067">
+          <title>在Jetpack Compose中轻松使用异步dispatch管理全局状态写在前面 本文中提及的use开头的函数，都出自 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7353156196935434290" id="2068">
+          <title>在Jetpack Compose中管理网络请求竟然如此简单！写在前面 本文中提及的use开头的函数，都出自与我的 Com - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7200268509531422777" id="2069">
+          <title>Jetpack Compose 实现鸿蒙引力加载 Loading2.14 是众所周知的节日，很显然，与我无关，甚至垃圾桶 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7326923332196352039" id="2070">
+          <title>Compose最强导航框架 Voyager 完全使用指南Voyager 是一个专为 Compose 页面导航编写的框架， - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/column/7309522058967040015" id="2071">
+          <title>Jetpack Compose 探索 - 编程小工匠的专栏 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/column/7224125445272748069" id="2072">
+          <title>Jetpack Compose - 叉与猹的专栏 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7224874901814722620" id="2073">
+          <title>Jetpack Compose：约束 和 修饰符 顺序MAD 技能：组合布局和修改器 第 3 集 在 上一篇 MAD 技 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7438864922514047026" id="2074">
+          <title>Android - Jetpack Compose个人开源项目分享一个Jetpack Compose开发的安卓项目，适合 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7412819188853309503" id="2075">
+          <title>写给小白的Jetpack Compose之动画实战前言 前几天遇到一个动画需求，由于当时的时间比较急，因此当时这个效果就 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7500121659090206754" id="2076">
+          <title>Jetpack Compose 1.8.0 上新：自动填充密码、自适应大小文本、动画边界……在经历了漫长的等待后，Com - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7102814045291413517" id="2077">
+          <title>JetPack Compose仿网抑云NCMusic基于Compose1.3.0，采用单Activity、UI全部由Co - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7458642222994948134" id="2078">
+          <title>使用Compose Shared Element实现卡片到详情页的平滑过渡使用Compose的共享元素功能实现电影卡片与 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://github.com/chinahbpyj/myPhoto" id="2079">
+          <title>chinahbpyj/myPhoto: 我是云相册</title>
+        </bookmark>
+        <bookmark href="https://github.com/0xZhangKe/compose-ext/tree/main" id="2080">
+          <title>0xZhangKe/compose-ext: Jetpack Compose extensions</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7438835112790605865" id="2081">
+          <title>Compose曲线图表库WXChart，你只需要提供数据配置就行了Compose曲线图表库WXChart，你只需要提供数 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://www.one-tab.com/page/PHX8Dp7xQpSqDp7AZQELFg" id="2082">
+          <title>OneTab - 0630</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://juejin.cn/post/7366913974624059427" id="2451">
+        <title>如何让不同Activity之间共享同一个ViewModel问题背景 存在一个场景，在Acitivity1可以跳转到Act - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7043599083679776799" id="2445">
+        <title>你都知道么？Android中21种drawable标签大全我们在drawable目录下可以创建很多自定义的资源，其中用的 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7312724126241701927" id="2446">
+        <title>Android使用MediaPipe + FFmpeg生成绿幕视频主要记录通过MediaPipe进行人像分割，再对每一帧 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7426319406358200355" id="2447">
+        <title>Android15使用WinscopeWinscope 是一款 Web 工具，可以让用户在动画和转换期间和之后记录、重放 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7416604150932193314" id="2448">
+        <title>Android混淆 | consumerProguardFiles 和 proguardFiles有什么区别在 Andr - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
+        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2450">
+        <title>OneTab -  0415</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7374677514536812571" id="2452">
+        <title>AGP 8.0 路由框架新思路前言 说到路由又是老生长谈了，阿里的 ARouter、美团的WMRouter 这些老牌知名 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7304265842979438630#heading-19" id="2453">
+        <title>[Android开发]推荐一个专属Android 端 AOP 切面框架，没有AspectJ，只需一个注解就可以请求权限、切换线程、禁止多点、监测生命周期等等 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
+        <title>阿里云-gradle-开源镜像站</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
+        <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
+      </bookmark>
       <folder id="1542">
         <title>BlueTooth</title>
         <folder id="2037">
@@ -2674,72 +2923,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7463313290829037608" id="2062">
           <title>Android productFlavors多版本、多环境打包序言 项目开发过程中，经常会打不同debug、releas - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="1547">
-        <title>Compose</title>
-        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2995">
-          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7602497125268946950" id="2996">
-          <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://github.com/fengzhizi715/Monica" id="2064">
-          <title>fengzhizi715/Monica: Monica is a cross-platform desktop image editing software with the UI layer built using Kotlin Compose Desktop. Some algorithms are implemented in Kotlin, while others are implemented in OpenCV C++. Kotlin interacts with the C++ algorithms through JNI.</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7419998480816963624" id="2065">
-          <title>在 Jetpack Compose 中扩展 useRequest 实现自定义数据处理、异常回滚写在前面 本文中提及的us - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7393312386572189736" id="2066">
-          <title>Insets in Jetpack Compose 🖼️Insets 这个单词，直译过来是“插入物”、“插图”、“插页 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7352785768094433289" id="2067">
-          <title>在Jetpack Compose中轻松使用异步dispatch管理全局状态写在前面 本文中提及的use开头的函数，都出自 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7353156196935434290" id="2068">
-          <title>在Jetpack Compose中管理网络请求竟然如此简单！写在前面 本文中提及的use开头的函数，都出自与我的 Com - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7200268509531422777" id="2069">
-          <title>Jetpack Compose 实现鸿蒙引力加载 Loading2.14 是众所周知的节日，很显然，与我无关，甚至垃圾桶 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7326923332196352039" id="2070">
-          <title>Compose最强导航框架 Voyager 完全使用指南Voyager 是一个专为 Compose 页面导航编写的框架， - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/column/7309522058967040015" id="2071">
-          <title>Jetpack Compose 探索 - 编程小工匠的专栏 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/column/7224125445272748069" id="2072">
-          <title>Jetpack Compose - 叉与猹的专栏 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7224874901814722620" id="2073">
-          <title>Jetpack Compose：约束 和 修饰符 顺序MAD 技能：组合布局和修改器 第 3 集 在 上一篇 MAD 技 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7438864922514047026" id="2074">
-          <title>Android - Jetpack Compose个人开源项目分享一个Jetpack Compose开发的安卓项目，适合 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7412819188853309503" id="2075">
-          <title>写给小白的Jetpack Compose之动画实战前言 前几天遇到一个动画需求，由于当时的时间比较急，因此当时这个效果就 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7500121659090206754" id="2076">
-          <title>Jetpack Compose 1.8.0 上新：自动填充密码、自适应大小文本、动画边界……在经历了漫长的等待后，Com - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7102814045291413517" id="2077">
-          <title>JetPack Compose仿网抑云NCMusic基于Compose1.3.0，采用单Activity、UI全部由Co - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7458642222994948134" id="2078">
-          <title>使用Compose Shared Element实现卡片到详情页的平滑过渡使用Compose的共享元素功能实现电影卡片与 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://github.com/chinahbpyj/myPhoto" id="2079">
-          <title>chinahbpyj/myPhoto: 我是云相册</title>
-        </bookmark>
-        <bookmark href="https://github.com/0xZhangKe/compose-ext/tree/main" id="2080">
-          <title>0xZhangKe/compose-ext: Jetpack Compose extensions</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7438835112790605865" id="2081">
-          <title>Compose曲线图表库WXChart，你只需要提供数据配置就行了Compose曲线图表库WXChart，你只需要提供数 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://www.one-tab.com/page/PHX8Dp7xQpSqDp7AZQELFg" id="2082">
-          <title>OneTab - 0630</title>
         </bookmark>
       </folder>
       <folder id="1548">
@@ -2859,24 +3042,6 @@
           <title>理解Jetpack--LifecycleLifecycle是什么 Lifecycle也是Jetpack家族中的一员。它能 - 掘金</title>
         </bookmark>
       </folder>
-      <folder id="2083">
-        <title>OpenGL</title>
-        <bookmark href="https://juejin.cn/post/7475157287683588135" id="2437">
-          <title>Android OpenGLES2.0开发（十一）：渲染YUV本章我们学习了如何将YUV原数据通过OpenGL显示，该方 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7291802007710793766" id="2438">
-          <title>使用 OpenGL 实例化绘制高性能绘制字符画（带源码） - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7195566746667909180" id="2439">
-          <title>【Android音视频】简简单单入门OpenGL ES加载一张小猫咪图片吧！学习Android音视频绝对绕不开OpenG - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7444378390843342859" id="2440">
-          <title>Android OpenGLES开发：EGL环境搭建本文简述了OpenGL是如何将绘制的图像显示到设备上的，这离不开EG - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7445998974224678948" id="2441">
-          <title>Android OpenGLES2.0开发（三）：绘制一个三角形上一篇文章中，我们已经将OpenGL ES环境搭建完成。 - 掘金</title>
-        </bookmark>
-      </folder>
       <folder id="2086">
         <title>GithubProjects</title>
         <bookmark href="https://github.com/gaoleicoding/BiuBike" id="2443">
@@ -2967,93 +3132,6 @@
           <title>Kotlin最强Json/Protobuf解析框架 - kotlin-serialization使用kotlin-ser - 掘金</title>
         </bookmark>
       </folder>
-      <folder id="2959">
-        <title>多语言</title>
-      </folder>
-      <folder id="2960">
-        <title>依赖注入</title>
-      </folder>
-      <folder id="2961">
-        <title>RecyclerView</title>
-      </folder>
-      <bookmark href="https://juejin.cn/post/7366913974624059427" id="2451">
-        <title>如何让不同Activity之间共享同一个ViewModel问题背景 存在一个场景，在Acitivity1可以跳转到Act - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7540524749425180735" id="2967">
-        <title>尝试解决 Android 适配的最后一公里框架介绍 Android 碎片化至始至终是一个令人非常头疼的问题，特别为 XX - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7603994823326547978" id="2968">
-        <title>为什么我不在 Android ViewModel 中直接处理异常？为什么我选择不在 ViewModel 里处理异常 在使 - 掘金</title>
-      </bookmark>
-      <folder id="2974">
-        <title>视频播放</title>
-        <bookmark href="https://juejin.cn/post/7562005555583909939" id="2979">
-          <title>Jetpack —＞ Media3的分析和使用​  🧩 一、Media3 是什么？ Media3 是 Google 将 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7589275237038243875" id="2980">
-          <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="2975">
-        <title>状态栏</title>
-        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
-          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://juejin.cn/post/7043599083679776799" id="2445">
-        <title>你都知道么？Android中21种drawable标签大全我们在drawable目录下可以创建很多自定义的资源，其中用的 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7312724126241701927" id="2446">
-        <title>Android使用MediaPipe + FFmpeg生成绿幕视频主要记录通过MediaPipe进行人像分割，再对每一帧 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7426319406358200355" id="2447">
-        <title>Android15使用WinscopeWinscope 是一款 Web 工具，可以让用户在动画和转换期间和之后记录、重放 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7416604150932193314" id="2448">
-        <title>Android混淆 | consumerProguardFiles 和 proguardFiles有什么区别在 Andr - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7478304240122560550" id="2449">
-        <title>Android交互五剑客（二）：多点触控--图片缩放本文对MotionEvent做了详细的介绍，并且对触点的获取方法和意 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2450">
-        <title>OneTab -  0415</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7374677514536812571" id="2452">
-        <title>AGP 8.0 路由框架新思路前言 说到路由又是老生长谈了，阿里的 ARouter、美团的WMRouter 这些老牌知名 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7304265842979438630#heading-19" id="2453">
-        <title>[Android开发]推荐一个专属Android 端 AOP 切面框架，没有AspectJ，只需一个注解就可以请求权限、切换线程、禁止多点、监测生命周期等等 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://mirrors.aliyun.com/macports/distfiles/gradle/" id="2454">
-        <title>阿里云-gradle-开源镜像站</title>
-      </bookmark>
-      <folder id="2990">
-        <title>多语言</title>
-        <bookmark href="https://juejin.cn/post/7541048117497561126" id="2962">
-          <title>Android 项目 通过 AndroidStringsTool 更新多语言词条1. 概述 项目有时候需要更新多语言词条 - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="2991">
-        <title>依赖注入</title>
-        <bookmark href="https://juejin.cn/post/7543451693477167150" id="2963">
-          <title>Koin：Kotlin轻量级依赖注入框架在 Android 开发中，依赖注入（DI）是一种重要的设计模式，它能帮助我们降 - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="2992">
-        <title>RecyclerView</title>
-        <bookmark href="https://juejin.cn/post/7539961344214073354" id="2964">
-          <title>RecyclerView超长列表优化对于包含10万+项的超长列表，RecyclerView需要针对性地优化内存、加载效率 - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="2993">
-        <title>OpenGL</title>
-        <bookmark href="https://juejin.cn/post/7501525550746878002" id="2994">
-          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://juejin.cn/post/7591322050240331814" id="2455">
-        <title>『OpenGL学习滤镜相机』- Day 12: LUT 滤镜（Look-Up Table）📚 今日目标 理解 LUT（ - 掘金</title>
-      </bookmark>
     </folder>
     <folder id="1299">
       <title>Kotlin</title>
@@ -3427,9 +3505,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7435659292868476964" id="2233">
           <title>Flutter 小技巧之 Shader 实现酷炫的粒子动画在之前的《Flutter 小技巧之不一样的思路实现炫酷 3D - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7484589584719626279" id="2989">
-          <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
         </bookmark>
       </folder>
       <folder id="1582">
@@ -3950,87 +4025,6 @@
       <title>这是一份全面 &amp; 详细的Android Studio插件开发指南手把手教你开发一个Anroid Studio插件！采用最 - 掘金</title>
     </bookmark>
   </folder>
-  <folder id="1058">
-    <title>Flutter</title>
-    <bookmark href="https://juejin.cn/post/7579673620940308530" id="2970">
-      <title>Flutter 3.38 动画新特性：动画引擎有什么新变化？Flutter 3.38 为其动画引擎带来了颠覆性的更新 ， - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7506590644543553548" id="2971">
-      <title>Flutter 小技巧之：Flutter 3.32 的 Property Editor 生产力工具快速介绍一下 Flut - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7514115291593981963" id="2972">
-      <title>Flutter 多版本管理工具 Puro ，它和 FVM 有什么区别？你平常是如何管理本地的 Flutter 版本？是每 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7283827523002859576" id="2976">
-      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7479474972849143844" id="2982">
-      <title>再聊 Flutter Riverpod ，注解模式下的 Riverpod 有什么特别之处，还有发展方向三年前我们通过 《 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7292323968853704714" id="2983">
-      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7580740563893977122" id="2984">
-      <title>让 AI 用 Flutter 实现了猗窝座的破坏杀·罗针动画，这个过程如何驯服 AI在经历了之前的《用 AI 做了几个超 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7484589584719626279" id="2234">
-      <title>Flutter 新一代状态管理框架 signals ，它究竟具备什么魔法和优势在上一篇《Riverpod 的注解模和发展 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7574621387574034478" id="2985">
-      <title>Flutter ：自己动手，封装一个小巧精致的气泡弹窗库参考PopupMenuButton源码，封装了一个功能丰富的带箭 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7505042954198319141" id="2986">
-      <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7498914140167159845" id="1306">
-      <title>【Flutter 状态管理 - 捌】 | InheritedNotifier：轻量级原生状态管理工具 ✨Inherit - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7504491526363742246" id="1307">
-      <title>[Flutter 进阶] - LayoutBuilder 一个非常好用的布局组件但是如果想深入学习Flutter，了解L - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7575413146922057743" id="2957">
-      <title>FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~对于一个技术框架的生态来说，三方库是非常非常重要的。Flu - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7579921879973429294" id="2958">
-      <title>Flutter: Dio + Retrofit 入门（面向 Android 开发者）Flutter: Dio + Ret - 掘金</title>
-    </bookmark>
-  </folder>
-  <folder id="1071">
-    <title>Blog</title>
-    <bookmark href="https://rengwuxian.com/" id="1399">
-      <title>HenCoder - 扔物线</title>
-    </bookmark>
-  </folder>
-  <folder id="1081">
-    <title>Website</title>
-    <bookmark href="https://www.csdn.net/" id="1405">
-      <title>CSDN</title>
-    </bookmark>
-  </folder>
-  <folder id="1093">
-    <title>Tools</title>
-    <bookmark href="https://material-foundation.github.io/material-theme-builder/" id="2987">
-      <title>Material Theme Builder</title>
-    </bookmark>
-    <bookmark href="https://cubic-bezier.tupulin.com/" id="1406">
-      <title>贝塞尔曲线</title>
-    </bookmark>
-  </folder>
-  <folder id="1098">
-    <title>AI</title>
-    <bookmark href="https://chat.openai.com/" id="1407">
-      <title>ChatGPT</title>
-    </bookmark>
-    <bookmark href="https://www.coze.cn/" id="1408">
-      <title>扣子(国内)</title>
-    </bookmark>
-    <bookmark href="https://www.coze.com/" id="1409">
-      <title>Coze(海外)</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://www.one-tab.com/page/7_2VAoVeRaiYz75hohh-jA" id="2997">
-    <title>OneTab - Shared tabs</title>
-  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
