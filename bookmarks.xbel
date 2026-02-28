@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3011: for Floccus bookmark sync browser extension -->
+<!--- highestId :3012: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -571,7 +571,7 @@
         <title>QmDeve/AndroidLiquidGlassView: 液态玻璃(LiquidGlass)</title>
       </bookmark>
       <bookmark href="https://github.com/liangjingkanji/soft-input-event" id="2988">
-        <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation</title>
+        <title>liangjingkanji/soft-input-event: Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation --- liangjingkanji/soft-input-event: The best Solution for keyboard cover in/smooth animation for Android</title>
       </bookmark>
     </folder>
     <folder id="1074">
@@ -722,9 +722,6 @@
       </folder>
       <folder id="2083">
         <title>OpenGL</title>
-        <bookmark href="https://juejin.cn/post/7501525550746878002" id="3008">
-          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
-        </bookmark>
         <bookmark href="https://juejin.cn/post/7475157287683588135" id="2437">
           <title>Android OpenGLES2.0开发（十一）：渲染YUV本章我们学习了如何将YUV原数据通过OpenGL显示，该方 - 掘金</title>
         </bookmark>
@@ -743,15 +740,9 @@
       </folder>
       <folder id="2959">
         <title>多语言</title>
-        <bookmark href="https://juejin.cn/post/7541048117497561126" id="3009">
-          <title>Android 项目 通过 AndroidStringsTool 更新多语言词条1. 概述 项目有时候需要更新多语言词条 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2960">
         <title>依赖注入</title>
-        <bookmark href="https://juejin.cn/post/7543451693477167150" id="3010">
-          <title>Koin：Kotlin轻量级依赖注入框架在 Android 开发中，依赖注入（DI）是一种重要的设计模式，它能帮助我们降 - 掘金</title>
-        </bookmark>
       </folder>
       <folder id="2961">
         <title>RecyclerView</title>
@@ -766,18 +757,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7589275237038243875" id="2980">
           <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
-        </bookmark>
-      </folder>
-      <folder id="3001">
-        <title>状态栏</title>
-        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
-          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
-          <title>玩转Android状态栏 评论有点意思</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
-          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
       <folder id="3002">
@@ -869,9 +848,6 @@
       <title>Coze(海外)</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.one-tab.com/page/7_2VAoVeRaiYz75hohh-jA" id="2997">
-    <title>OneTab - Shared tabs</title>
-  </bookmark>
   <bookmark href="https://www.one-tab.com/page/_fnZUK2TQaa0O7IKQFLNiQ" id="2999">
     <title>OneTab - Shared tabs</title>
   </bookmark>
@@ -1436,6 +1412,9 @@
       </folder>
       <folder id="2306">
         <title>OpenGL</title>
+        <bookmark href="https://juejin.cn/post/7501525550746878002" id="3008">
+          <title>Hello OpenGL ES! 启航！零、前言 今天开始以我的视角分享 OpenGL ES 知识，主要包括以下几个小点 - 掘金</title>
+        </bookmark>
         <bookmark href="https://juejin.cn/post/7311167216727392271" id="2482">
           <title>Shader 入门以及在Android上的实践 - 掘金</title>
         </bookmark>
@@ -2736,6 +2715,18 @@
       <bookmark href="https://juejin.cn/post/6856637313964441614" id="2969">
         <title>这15个Android开源库，只有经常逛Github的才知道！</title>
       </bookmark>
+      <folder id="3001">
+        <title>状态栏</title>
+        <bookmark href="https://juejin.cn/post/6903165109485436935" id="2700">
+          <title>我敢说，这就是 github 上最好用的 Android 状态栏导航栏库，没有之一</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/7252231214529282085" id="2981">
+          <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
+        </bookmark>
+        <bookmark href="https://juejin.cn/post/6844904071904641032" id="2701">
+          <title>玩转Android状态栏 评论有点意思</title>
+        </bookmark>
+      </folder>
     </folder>
     <folder id="3005">
       <title>Android</title>
@@ -4039,6 +4030,9 @@
   </folder>
   <bookmark href="https://www.one-tab.com/page/9MtfgHU9Rc6QH84czLk0_w" id="3007">
     <title>OneTab - 20260228</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/KvfLI5uBRIyfDEQNnCwbXg" id="3012">
+    <title>OneTab - 28</title>
   </bookmark>
 </folder>
 <folder id="1">
