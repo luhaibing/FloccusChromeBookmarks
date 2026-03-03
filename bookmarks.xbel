@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2956: for Floccus bookmark sync browser extension -->
+<!--- highestId :2977: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -606,6 +606,48 @@
       <bookmark href="https://juejin.cn/post/6844903988635107341" id="1416">
         <title>Room官方文档（翻译）3.在数据库中创建视图Room 2.1.0及更高版本提供了数据库视图的支持，允许将查询封装到某个 - 掘金</title>
       </bookmark>
+      <bookmark href="https://juejin.cn/post/7554311700456194087" id="2957">
+        <title>Android-功能实现-011-Android获加密Room数据库引自：如何在 Android 中使用 SQLCiph - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7519324496742842403" id="2958">
+        <title>android 使用Room的7个重要tip使用Room的7个重要tip Cobbler 2020年11月09日 16: - 掘金</title>
+      </bookmark>
+    </folder>
+    <folder id="2961">
+      <title>RecyclerView</title>
+      <bookmark href="https://juejin.cn/post/7235463575300046903" id="2962">
+        <title>基于EdgeEffect实现RecyclerView列表阻尼滑动效果EdgeEffect是什么 当用户在一个可滑动的控件 - 掘金</title>
+      </bookmark>
+    </folder>
+    <folder id="2963">
+      <title>优化</title>
+      <bookmark href="https://juejin.cn/post/7306692609497546752" id="2967">
+        <title>Android启动优化实践 - 秒开率从17%提升至75%秒开，是许多人对性能优化的一种执着，也是许多用户简单甄别App - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7426594203969126463" id="2968">
+        <title>如何应对 Android 面试官 -&gt; 卡顿和布局如何优化？玩转 BlockCanary，手写核心实现前言 本章我们来讲 - 掘金</title>
+      </bookmark>
+    </folder>
+    <folder id="2964">
+      <title>项目</title>
+      <bookmark href="https://juejin.cn/post/7294072229003952143" id="2969">
+        <title>重生！入门级开源音乐播放器APP —— 波尼音乐不知道是否还有人记得，7年前的那个 「Android开源在线音乐播放器— - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7486001370213138484" id="2970">
+        <title>Android架构设计（模块化+组件化+MVI）支持配置变更后的还原 支持进程杀死后的还原 项目架构：模块化+组件化+M - 掘金</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://juejin.cn/post/7565334530526675007" id="2959">
+      <title>【车载Android】使用自定义插件实现多语言自动化适配2024年中国成为世界第一汽车出口大国，车载Android应用的 - 掘金</title>
+    </bookmark>
+    <folder id="2966">
+      <title>Compose</title>
+      <bookmark href="https://juejin.cn/post/7278583672402427958" id="2971">
+        <title>AndroidStudio无法查看Compose重组次数？本文适合还没有跑通LayoutInspector工具，查看重组 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://www.one-tab.com/page/1gGWu-aORsCK0JDXnEeBLQ" id="2972">
+        <title>OneTab - 0304</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="35">
@@ -733,14 +775,8 @@
     <bookmark href="https://juejin.cn/post/7514115291593981963" id="1306">
       <title>Flutter 多版本管理工具 Puro ，它和 FVM 有什么区别？你平常是如何管理本地的 Flutter 版本？是每 - 掘金</title>
     </bookmark>
-    <bookmark href="https://juejin.cn/post/7283827523002859576" id="1307">
-      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
-    </bookmark>
     <bookmark href="https://juejin.cn/post/7479474972849143844" id="1308">
       <title>再聊 Flutter Riverpod ，注解模式下的 Riverpod 有什么特别之处，还有发展方向三年前我们通过 《 - 掘金</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7292323968853704714" id="1309">
-      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
     </bookmark>
     <bookmark href="https://juejin.cn/post/7580740563893977122" id="1310">
       <title>让 AI 用 Flutter 实现了猗窝座的破坏杀·罗针动画，这个过程如何驯服 AI在经历了之前的《用 AI 做了几个超 - 掘金</title>
@@ -750,6 +786,33 @@
     </bookmark>
     <bookmark href="https://juejin.cn/post/7505042954198319141" id="1312">
       <title>一箭双雕 —— Flutter Channel 双通道调用实战Dart 层与原生层之间既有 “点对点” 的方法调用（Me - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7249236479199936572" id="2960">
+      <title>分享一下Flutter中异常处理Flutter如何捕获异常 程序异常会怎样 在Java中，程序发生异常且没有被捕获，那么 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7292323968853704714" id="1309">
+      <title>Flutter应用的美学之旅：Material 3的一致与灵活Flutter应用的美学之旅：Material 3的一致与 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7283827523002859576" id="1307">
+      <title>将Flutter推向极限：你应该知道的44个性能提示有没有觉得 Flutter 是比赛中的乌龟？别担心！只要我们有几招， - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7362729128477212691" id="2965">
+      <title>【Flutter】组件化除了使用melos还有其他方案吗？像Android一样自行实现组件化组件化一直是移动端比较流行的 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7252171043384246331" id="2973">
+      <title>Flutter 仿抖音、豆瓣、知乎、番茄小说的评论弹窗开发实践最近用flutter做了一个评论弹窗的功能，本来以为很简单 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7284069963123736635" id="2974">
+      <title>flutter快速上手公司分享使用，本文主要讲解以下几个部分：安装配置，dart语言基础，项目搭建，运行与调试，打包上线 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7313740940773933066" id="2975">
+      <title>Flutter基建 - 异步加载UI文章主要介绍FutureBuilder、StreamBuilder和通过Dio网络请 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7111129361041850404" id="2976">
+      <title>Flutter 结合 Dio 使用上一篇文章 &quot;Flutter 布局备忘录 -- 多图警告，干货建议收藏&quot; 中，我们基本 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7338645701658591269" id="2977">
+      <title>小技巧：在 Flutter 中提供触觉反馈，让用户感受到您的应用程序数字世界和现实世界之间总是存在着差距。无论技术多么先 - 掘金</title>
     </bookmark>
   </folder>
   <folder id="1058">
@@ -2716,9 +2779,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7602497125268946950" id="2082">
           <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7600663744192069668" id="2083">
-          <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
         </bookmark>
       </folder>
       <bookmark href="https://juejin.cn/post/7540524749425180735" id="1571">
