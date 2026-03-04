@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2984: for Floccus bookmark sync browser extension -->
+<!--- highestId :2986: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -650,9 +650,6 @@
       <title>Compose</title>
       <bookmark href="https://juejin.cn/post/7278583672402427958" id="2971">
         <title>AndroidStudio无法查看Compose重组次数？本文适合还没有跑通LayoutInspector工具，查看重组 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://www.one-tab.com/page/1gGWu-aORsCK0JDXnEeBLQ" id="2972">
-        <title>OneTab - 0304</title>
       </bookmark>
       <bookmark href="https://juejin.cn/post/7600663744192069668" id="2980">
         <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
@@ -3189,6 +3186,9 @@
           <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
+      <bookmark href="https://juejin.cn/post/7571641339688812544" id="2985">
+        <title>Kotlin 协程基础系列：从概念到实战最近一直在深耕 Kotlin 协程，通过官方文档系统学习 + 个人实践总结，梳理 - 掘金</title>
+      </bookmark>
     </folder>
     <folder id="1425">
       <title>Kotlin</title>
@@ -4085,8 +4085,11 @@
   <bookmark href="https://www.one-tab.com/page/9MtfgHU9Rc6QH84czLk0_w" id="1281">
     <title>OneTab - 20260228</title>
   </bookmark>
-  <bookmark href="https://www.one-tab.com/page/KvfLI5uBRIyfDEQNnCwbXg" id="1282">
-    <title>OneTab - 28</title>
+  <bookmark href="https://www.one-tab.com/page/Y0nqEjblSKO13ECypTH9EA" id="2986">
+    <title>OneTab - 20260304</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/1gGWu-aORsCK0JDXnEeBLQ" id="2972">
+    <title>OneTab - 0304</title>
   </bookmark>
 </folder>
 <folder id="1">
