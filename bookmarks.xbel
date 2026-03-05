@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2993: for Floccus bookmark sync browser extension -->
+<!--- highestId :2996: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -653,9 +653,6 @@
       </bookmark>
       <bookmark href="https://juejin.cn/post/7600663744192069668" id="2980">
         <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7544949169640783906" id="2990">
-        <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
       </bookmark>
     </folder>
   </folder>
@@ -2786,9 +2783,6 @@
         <bookmark href="https://juejin.cn/post/7438835112790605865" id="2079">
           <title>Compose曲线图表库WXChart，你只需要提供数据配置就行了Compose曲线图表库WXChart，你只需要提供数 - 掘金</title>
         </bookmark>
-        <bookmark href="https://www.one-tab.com/page/PHX8Dp7xQpSqDp7AZQELFg" id="2080">
-          <title>OneTab - 0630</title>
-        </bookmark>
         <bookmark href="https://juejin.cn/post/7602497125268946950" id="2082">
           <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
         </bookmark>
@@ -3090,9 +3084,6 @@
           <title>通过ADB来实现脚本来控制手机ADB 简介 adb的全称为Android Debug Bridge,安卓调试桥,可以通过 - 掘金</title>
         </bookmark>
       </folder>
-      <bookmark href="https://www.one-tab.com/page/yofpBNaUSy6MLBmfH8S3SQ" id="2449">
-        <title>OneTab -  0415</title>
-      </bookmark>
       <folder id="2450">
         <title>OpenGL / OpenCV</title>
         <bookmark href="https://blog.csdn.net/tangfuling1991/article/details/118075815" id="2545">
@@ -3177,15 +3168,18 @@
       <folder id="2490">
         <title>RecyclerView</title>
       </folder>
+      <bookmark href="https://juejin.cn/post/7571641339688812544" id="2985">
+        <title>Kotlin 协程基础系列：从概念到实战最近一直在深耕 Kotlin 协程，通过官方文档系统学习 + 个人实践总结，梳理 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7599565587153911834" id="2994">
+        <title>ViewModel生命周期，相较于Activity，Application在 Android 架构组件中，ViewMod - 掘金</title>
+      </bookmark>
       <folder id="2981">
         <title>状态栏</title>
         <bookmark href="https://juejin.cn/post/7252231214529282085" id="2984">
           <title>Android 沉浸式状态/导航栏的实现以及布局重叠的适配（Kotlin）一、沉浸式状态栏的实现 该方法用于表示内容是否 - 掘金</title>
         </bookmark>
       </folder>
-      <bookmark href="https://juejin.cn/post/7571641339688812544" id="2985">
-        <title>Kotlin 协程基础系列：从概念到实战最近一直在深耕 Kotlin 协程，通过官方文档系统学习 + 个人实践总结，梳理 - 掘金</title>
-      </bookmark>
     </folder>
     <folder id="1425">
       <title>Kotlin</title>
@@ -4079,18 +4073,6 @@
       <title>这是一份全面 &amp; 详细的Android Studio插件开发指南手把手教你开发一个Anroid Studio插件！采用最 - 掘金</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.one-tab.com/page/Y0nqEjblSKO13ECypTH9EA" id="2986">
-    <title>OneTab - 20260304</title>
-  </bookmark>
-  <bookmark href="https://www.one-tab.com/page/_fnZUK2TQaa0O7IKQFLNiQ" id="2991">
-    <title>OneTab - Shared tabs</title>
-  </bookmark>
-  <bookmark href="https://www.one-tab.com/page/9MtfgHU9Rc6QH84czLk0_w" id="2992">
-    <title>OneTab - 20260228</title>
-  </bookmark>
-  <bookmark href="https://www.one-tab.com/page/1gGWu-aORsCK0JDXnEeBLQ" id="2993">
-    <title>OneTab - 0304</title>
-  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
@@ -8839,20 +8821,11 @@
     <bookmark href="https://www.one-tab.com/page/WwPAxhBtRSm8MbePaniHzg" id="1246">
       <title>OneTab - Shared tabs</title>
     </bookmark>
-    <bookmark href="https://www.one-tab.com/page/MgprOdvXSxiNIanHrYcYkQ" id="1247">
-      <title>OneTab - Shared tabs</title>
-    </bookmark>
-    <bookmark href="https://www.one-tab.com/page/2RtQEH7rQ9yPEGSflZvCTQ" id="1248">
-      <title>OneTab - 0627</title>
-    </bookmark>
     <bookmark href="https://www.one-tab.com/page/Ee9vWZEHSqGDtQkq_NHgSQ" id="1249">
       <title>OneTab - 07.24</title>
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/vIdOlUYWTjufHVYZ2C4k0g" id="1250">
       <title>OneTab - 09040230</title>
-    </bookmark>
-    <bookmark href="https://www.one-tab.com/page/nKGVvJG7R_WHMXmevLJN5g" id="1251">
-      <title>OneTab - 0929</title>
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/l302J1psQFidjHBHOnRfVw" id="1252">
       <title>OneTab - 1014</title>
@@ -8863,9 +8836,6 @@
     <bookmark href="https://www.one-tab.com/page/BtRZR2C2RtO_euIqhs-Zvw" id="1254">
       <title>OneTab - 1105</title>
     </bookmark>
-    <bookmark href="https://www.one-tab.com/page/i9TtAatHSUyhQ1g5bJ3-pA" id="1255">
-      <title>OneTab - 121121</title>
-    </bookmark>
     <bookmark href="https://www.one-tab.com/page/c7hZqTYsTraGiAMoiJ3JzQ" id="1256">
       <title>OneTab - 121620</title>
     </bookmark>
@@ -8874,6 +8844,15 @@
     </bookmark>
     <bookmark href="https://www.one-tab.com/page/ZWr71z94TGWJ9zGUOwEcEA" id="1258">
       <title>OneTab - 1209</title>
+    </bookmark>
+    <bookmark href="https://www.one-tab.com/page/TpvpE-niQIOEFgy7nilPBQ" id="2995">
+      <title>OneTab - Shared tabs</title>
+    </bookmark>
+    <bookmark href="https://www.one-tab.com/page/BSuywyY0Rj-3GGQOlqoSyg" id="2996">
+      <title>OneTab - Shared tabs</title>
+    </bookmark>
+    <bookmark href="https://www.one-tab.com/page/PHX8Dp7xQpSqDp7AZQELFg" id="2080">
+      <title>OneTab - 0630</title>
     </bookmark>
   </folder>
   <folder id="1019">
