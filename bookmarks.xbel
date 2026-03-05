@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2986: for Floccus bookmark sync browser extension -->
+<!--- highestId :2989: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -655,6 +655,9 @@
         <title>Jetpack Compose 从入门到精通（三）：状态管理 - 从原理到实践前言 在前两篇中，我们掌握了 Compos - 掘金</title>
       </bookmark>
     </folder>
+    <bookmark href="https://juejin.cn/post/7599565587153911834" id="2987">
+      <title>ViewModel生命周期，相较于Activity，Application在 Android 架构组件中，ViewMod - 掘金</title>
+    </bookmark>
   </folder>
   <folder id="35">
     <title>区块链</title>
@@ -854,9 +857,6 @@
       <title>Coze(海外)</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.one-tab.com/page/_fnZUK2TQaa0O7IKQFLNiQ" id="1099">
-    <title>OneTab - Shared tabs</title>
-  </bookmark>
   <folder id="1100">
     <title>backup</title>
     <folder id="1422">
@@ -2789,9 +2789,6 @@
         <bookmark href="https://www.one-tab.com/page/PHX8Dp7xQpSqDp7AZQELFg" id="2080">
           <title>OneTab - 0630</title>
         </bookmark>
-        <bookmark href="https://juejin.cn/post/7544949169640783906" id="2081">
-          <title>Compose 图片加载新姿势 — Coil 精通书接上回，上一篇文章把 Coil 的基础用法铺陈清楚，就像降龙十八掌先 - 掘金</title>
-        </bookmark>
         <bookmark href="https://juejin.cn/post/7602497125268946950" id="2082">
           <title>Jetpack Compose 从入门到精通（五）：动画与交互前言 动画是提升用户体验的重要手段。好的动画能让界面更流畅 - 掘金</title>
         </bookmark>
@@ -4082,11 +4079,14 @@
       <title>这是一份全面 &amp; 详细的Android Studio插件开发指南手把手教你开发一个Anroid Studio插件！采用最 - 掘金</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.one-tab.com/page/9MtfgHU9Rc6QH84czLk0_w" id="1281">
-    <title>OneTab - 20260228</title>
-  </bookmark>
   <bookmark href="https://www.one-tab.com/page/Y0nqEjblSKO13ECypTH9EA" id="2986">
     <title>OneTab - 20260304</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/TpvpE-niQIOEFgy7nilPBQ" id="2988">
+    <title>OneTab - 202603042300</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/BSuywyY0Rj-3GGQOlqoSyg" id="2989">
+    <title>OneTab - 202603050800</title>
   </bookmark>
 </folder>
 <folder id="1">
