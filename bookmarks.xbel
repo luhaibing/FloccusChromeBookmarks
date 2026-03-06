@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2997: for Floccus bookmark sync browser extension -->
+<!--- highestId :2998: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -2717,12 +2717,6 @@
       </bookmark>
       <folder id="2979">
         <title>room</title>
-        <bookmark href="https://juejin.cn/post/6844903989507522573" id="2982">
-          <title>Room官方文档（翻译）6.测试数据库 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/6844904200162246663" id="2983">
-          <title>最全面的ROOM数据库框架使用指南 - 掘金</title>
-        </bookmark>
       </folder>
     </folder>
     <folder id="1424">
@@ -4075,6 +4069,9 @@
   </folder>
   <bookmark href="https://www.one-tab.com/page/iSXU_J1iRgmFoboTmXxKPg" id="2997">
     <title>OneTab - 03052000</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/tfaaUL9KSteZ7j_rziw2ZQ" id="2998">
+    <title>OneTab - 202603060800</title>
   </bookmark>
 </folder>
 <folder id="1">
