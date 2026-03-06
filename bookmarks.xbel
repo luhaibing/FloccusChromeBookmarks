@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2998: for Floccus bookmark sync browser extension -->
+<!--- highestId :2999: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -3150,6 +3150,12 @@
           <title>Kotlin最强Json/Protobuf解析框架 - kotlin-serialization使用kotlin-ser - 掘金</title>
         </bookmark>
       </folder>
+      <bookmark href="https://juejin.cn/post/7571641339688812544" id="2985">
+        <title>Kotlin 协程基础系列：从概念到实战最近一直在深耕 Kotlin 协程，通过官方文档系统学习 + 个人实践总结，梳理 - 掘金</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7599565587153911834" id="2994">
+        <title>ViewModel生命周期，相较于Activity，Application在 Android 架构组件中，ViewMod - 掘金</title>
+      </bookmark>
       <folder id="2486">
         <title>视频播放</title>
         <bookmark href="https://juejin.cn/post/7562005555583909939" id="2558">
@@ -3159,12 +3165,6 @@
           <title>Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案做 Androi - 掘金</title>
         </bookmark>
       </folder>
-      <bookmark href="https://juejin.cn/post/7571641339688812544" id="2985">
-        <title>Kotlin 协程基础系列：从概念到实战最近一直在深耕 Kotlin 协程，通过官方文档系统学习 + 个人实践总结，梳理 - 掘金</title>
-      </bookmark>
-      <bookmark href="https://juejin.cn/post/7599565587153911834" id="2994">
-        <title>ViewModel生命周期，相较于Activity，Application在 Android 架构组件中，ViewMod - 掘金</title>
-      </bookmark>
       <folder id="2490">
         <title>RecyclerView</title>
       </folder>
@@ -4067,11 +4067,11 @@
       <title>这是一份全面 &amp; 详细的Android Studio插件开发指南手把手教你开发一个Anroid Studio插件！采用最 - 掘金</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.one-tab.com/page/iSXU_J1iRgmFoboTmXxKPg" id="2997">
-    <title>OneTab - 03052000</title>
-  </bookmark>
   <bookmark href="https://www.one-tab.com/page/tfaaUL9KSteZ7j_rziw2ZQ" id="2998">
     <title>OneTab - 202603060800</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/1xQ1v5jMQi-Sed0ccyM5kQ" id="2999">
+    <title>OneTab - 202603061832</title>
   </bookmark>
 </folder>
 <folder id="1">
