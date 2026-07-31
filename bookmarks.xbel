@@ -673,21 +673,6 @@
         <title>带你学会MotionLayout 第二篇 - 掘金</title>
       </bookmark>
     </folder>
-    <folder id="1429">
-      <title>业务逻辑</title>
-      <folder id="1590">
-        <title>新建文件夹</title>
-        <bookmark href="https://juejin.cn/post/7289666055818493987" id="1968">
-          <title>Android 业务逻辑应该如何写（第一篇）</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7291953597867294746" id="1969">
-          <title>Android 业务逻辑应该如何写（第二篇）</title>
-        </bookmark>
-        <bookmark href="https://juejin.cn/post/7295771910826491913" id="1970">
-          <title>Android 业务逻辑应该如何写（第三篇）</title>
-        </bookmark>
-      </folder>
-    </folder>
   </folder>
   <folder id="35">
     <title>区块链</title>
@@ -3236,6 +3221,21 @@
         <bookmark href="https://juejin.cn/post/7289666055818493987" id="2704">
           <title>Android 业务逻辑应该如何写（第一篇）不仅只在面试中，在实际工作中，相信大多数的Android程序员也都在迷失在浩 - 掘金</title>
         </bookmark>
+      </folder>
+      <folder id="1429">
+        <title>业务逻辑</title>
+        <folder id="1590">
+          <title>新建文件夹</title>
+          <bookmark href="https://juejin.cn/post/7289666055818493987" id="1968">
+            <title>Android 业务逻辑应该如何写（第一篇）</title>
+          </bookmark>
+          <bookmark href="https://juejin.cn/post/7291953597867294746" id="1969">
+            <title>Android 业务逻辑应该如何写（第二篇）</title>
+          </bookmark>
+          <bookmark href="https://juejin.cn/post/7295771910826491913" id="1970">
+            <title>Android 业务逻辑应该如何写（第三篇）</title>
+          </bookmark>
+        </folder>
       </folder>
     </folder>
     <folder id="1462">
