@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3027: for Floccus bookmark sync browser extension -->
+<!--- highestId :3030: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -710,6 +710,15 @@
       <title>Bluetooth</title>
       <bookmark href="https://github.com/aicareles/Android-BLE" id="3026">
         <title>GitHub - aicareles/Android-BLE: Android-BLE蓝牙框架,提供了扫描、连接、使能/除能通知、发送/读取数据、接收数据,读取rssi,设置mtu等蓝牙相关的所有操作接口,内部优化了连接队列,以及快速写入队列, 并支持多服务通讯,可扩展配置蓝牙相关操作。 · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/Sunion-Tech/BleDemoApp_Android" id="3028">
+        <title>GitHub - Sunion-Tech/BleDemoApp_Android · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/logan0817/BleExplorer" id="3029">
+        <title>GitHub - logan0817/BleExplorer: Jetpack Bluetooth DEMO, this project uses the Jetpack Bluetooth library to implement some daily functions that we use for development · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/dariuszseweryn/RxAndroidBle" id="3030">
+        <title>GitHub - dariuszseweryn/RxAndroidBle: An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface · GitHub</title>
       </bookmark>
     </folder>
   </folder>
