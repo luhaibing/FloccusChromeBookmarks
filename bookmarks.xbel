@@ -5,9 +5,6 @@
 
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <bookmark href="https://www.baidu.com/" id="13">
-    <title>百度</title>
-  </bookmark>
   <bookmark href="https://www.google.com/" id="14">
     <title>Google</title>
   </bookmark>
