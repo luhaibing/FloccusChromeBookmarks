@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3030: for Floccus bookmark sync browser extension -->
+<!--- highestId :3032: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -719,6 +719,12 @@
       </bookmark>
       <bookmark href="https://github.com/dariuszseweryn/RxAndroidBle" id="3030">
         <title>GitHub - dariuszseweryn/RxAndroidBle: An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/Jasonchenlijian/FastBle" id="3031">
+        <title>GitHub - Jasonchenlijian/FastBle: Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection. · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/Sunion-Tech/core_ble_android" id="3032">
+        <title>GitHub - Sunion-Tech/core_ble_android at 51c6c6c0e844f862d89a86bed6432518dcf30071 · GitHub</title>
       </bookmark>
     </folder>
   </folder>
@@ -2866,9 +2872,6 @@
         </bookmark>
         <bookmark href="https://juejin.cn/post/7438554774671228966" id="2126">
           <title>Android 模拟 Ble 设备前言 创建这个模拟 BLE 设备的 BleServiceManager 类主要是为了在 - 掘金</title>
-        </bookmark>
-        <bookmark href="https://github.com/Jasonchenlijian/FastBle" id="2127">
-          <title>Jasonchenlijian/FastBle: Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.</title>
         </bookmark>
         <bookmark href="https://juejin.cn/post/7240690534073827365" id="2128">
           <title>FastBle：Android BLE通信库的介绍与高级用法FastBle是一个开源的Android BLE库，旨在简化 - 掘金</title>
