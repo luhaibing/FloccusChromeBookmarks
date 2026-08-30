@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3022: for Floccus bookmark sync browser extension -->
+<!--- highestId :3024: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -570,6 +570,12 @@
     </bookmark>
     <bookmark href="https://www.suquge.cc/" id="3022">
       <title>书趣阁</title>
+    </bookmark>
+    <bookmark href="https://www.nbixia.net/" id="3023">
+      <title>来读读小说</title>
+    </bookmark>
+    <bookmark href="https://www.nbixia.com/" id="3024">
+      <title>来读读小说_无弹窗书友最值得收藏的网络小说阅读网</title>
     </bookmark>
   </folder>
   <folder id="33">
