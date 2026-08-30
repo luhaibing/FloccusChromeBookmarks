@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3026: for Floccus bookmark sync browser extension -->
+<!--- highestId :3027: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -580,9 +580,6 @@
     <bookmark href="https://twkan.com/" id="3025">
       <title>台灣小說網</title>
     </bookmark>
-    <bookmark href="https://github.com/aicareles/Android-BLE" id="3026">
-      <title>GitHub - aicareles/Android-BLE: Android-BLE蓝牙框架,提供了扫描、连接、使能/除能通知、发送/读取数据、接收数据,读取rssi,设置mtu等蓝牙相关的所有操作接口,内部优化了连接队列,以及快速写入队列, 并支持多服务通讯,可扩展配置蓝牙相关操作。 · GitHub</title>
-    </bookmark>
   </folder>
   <folder id="33">
     <title>Rust</title>
@@ -707,6 +704,12 @@
       </bookmark>
       <bookmark href="https://juejin.cn/post/7221425945238978615" id="1452">
         <title>带你学会MotionLayout 第二篇 - 掘金</title>
+      </bookmark>
+    </folder>
+    <folder id="3027">
+      <title>Bluetooth</title>
+      <bookmark href="https://github.com/aicareles/Android-BLE" id="3026">
+        <title>GitHub - aicareles/Android-BLE: Android-BLE蓝牙框架,提供了扫描、连接、使能/除能通知、发送/读取数据、接收数据,读取rssi,设置mtu等蓝牙相关的所有操作接口,内部优化了连接队列,以及快速写入队列, 并支持多服务通讯,可扩展配置蓝牙相关操作。 · GitHub</title>
       </bookmark>
     </folder>
   </folder>
