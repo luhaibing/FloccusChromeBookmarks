@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3016: for Floccus bookmark sync browser extension -->
+<!--- highestId :3018: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -552,6 +552,12 @@
     </bookmark>
     <bookmark href="https://www.aaawz.cc/" id="3016">
       <title>3A小说网</title>
+    </bookmark>
+    <bookmark href="https://www.laidudu.net/" id="3017">
+      <title>来读读小说网</title>
+    </bookmark>
+    <bookmark href="https://www.shuzw.cc/" id="3018">
+      <title>书趣阁阅读</title>
     </bookmark>
   </folder>
   <folder id="33">
