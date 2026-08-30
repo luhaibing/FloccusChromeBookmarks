@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3032: for Floccus bookmark sync browser extension -->
+<!--- highestId :3033: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -725,6 +725,9 @@
       </bookmark>
       <bookmark href="https://github.com/Sunion-Tech/core_ble_android" id="3032">
         <title>GitHub - Sunion-Tech/core_ble_android at 51c6c6c0e844f862d89a86bed6432518dcf30071 · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/ClearGrass/BleDemo_Android" id="3033">
+        <title>GitHub - ClearGrass/BleDemo_Android · GitHub</title>
       </bookmark>
     </folder>
   </folder>
