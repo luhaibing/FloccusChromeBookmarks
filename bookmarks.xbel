@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3141: for Floccus bookmark sync browser extension -->
+<!--- highestId :3142: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -869,9 +869,6 @@
       </bookmark>
       <bookmark href="http://www.xlaidudu.la/book/126907/48132643.html" id="3134">
         <title>第228章 真凶（二更）_今天也在努力做魔头_来读读小说</title>
-      </bookmark>
-      <bookmark href="https://hetubook.com/book/8876/6378958.html" id="3135">
-        <title>不可思議的山海_第三卷 渾天五行 第六百六十九章 半夜的狐狸_油炸鹹魚_和圖書</title>
       </bookmark>
       <folder id="3136">
         <title>新建文件夹</title>
@@ -4533,6 +4530,9 @@
     <title>历史记录</title>
   </bookmark>
   <bookmark href="https://baike.baidu.com/item/%E4%BD%9B%E9%81%93%E5%8F%8C%E4%BF%AE/3376448" id="3039">
+    <title>佛道双修_百度百科</title>
+  </bookmark>
+  <bookmark href="https://baike.baidu.com/item/%E4%BD%9B%E9%81%93%E5%8F%8C%E4%BF%AE/3376448" id="3142">
     <title>佛道双修_百度百科</title>
   </bookmark>
 </folder>
