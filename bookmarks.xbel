@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3142: for Floccus bookmark sync browser extension -->
+<!--- highestId :3148: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -600,9 +600,6 @@
       <bookmark href="https://www.qidian.com/book/1036010291/" id="3044">
         <title>乱世书(姬叉)小说在线阅读-首发起点中文网</title>
       </bookmark>
-      <bookmark href="https://www.qidian.com/book/1032778366/" id="3045">
-        <title>择日飞升(宅猪)小说在线阅读-首发起点中文网</title>
-      </bookmark>
       <bookmark href="https://www.qidian.com/book/1020884972/" id="3046">
         <title>白骨大圣(此生亦要火)小说在线阅读-首发起点中文网</title>
       </bookmark>
@@ -641,9 +638,6 @@
       </bookmark>
       <bookmark href="https://www.qidian.com/book/1012136021/" id="3058">
         <title>炼蛊(一号玩家)小说在线阅读-首发起点中文网</title>
-      </bookmark>
-      <bookmark href="https://www.qidian.com/book/1016530091/" id="3059">
-        <title>赤心巡天(情何以甚)小说在线阅读-首发起点中文网</title>
       </bookmark>
       <bookmark href="https://www.qidian.com/book/1033071585/" id="3060">
         <title>我在诡异世界谨慎修仙(九上签)小说在线阅读-首发起点中文网</title>
@@ -889,6 +883,12 @@
         </bookmark>
       </folder>
     </folder>
+    <bookmark href="http://www.ilaidudu.com/book/141066/52178854.html" id="3143">
+      <title>第104章 魏县令_我能活化技能_来读读小说</title>
+    </bookmark>
+    <bookmark href="http://www.ilaidudu.com/book/5415/18078505.html" id="3144">
+      <title>第一千一百八十三章 保留实力_诅咒之龙_来读读小说</title>
+    </bookmark>
   </folder>
   <folder id="33">
     <title>Rust</title>
@@ -1037,6 +1037,15 @@
       </bookmark>
       <bookmark href="https://github.com/ClearGrass/BleDemo_Android" id="3033">
         <title>GitHub - ClearGrass/BleDemo_Android · GitHub</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://juejin.cn/post/7653437401839845410" id="3145">
+      <title>使用Glide和Coil加载WebP动图(Gif)</title>
+    </bookmark>
+    <folder id="3147">
+      <title>Gradle</title>
+      <bookmark href="https://juejin.cn/post/7616226896066199586" id="3148">
+        <title>Android Gradle Plugin 9.0 升级指南：告别十年技术债，你准备好了吗？</title>
       </bookmark>
     </folder>
   </folder>
@@ -4534,6 +4543,9 @@
   </bookmark>
   <bookmark href="https://baike.baidu.com/item/%E4%BD%9B%E9%81%93%E5%8F%8C%E4%BF%AE/3376448" id="3142">
     <title>佛道双修_百度百科</title>
+  </bookmark>
+  <bookmark href="https://www.one-tab.com/page/cpmDxhO9QC2xIW13tbkFLw" id="3146">
+    <title>OneTab - 1029</title>
   </bookmark>
 </folder>
 <folder id="1">
