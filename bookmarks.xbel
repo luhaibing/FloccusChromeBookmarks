@@ -457,9 +457,6 @@
     <bookmark href="https://www.2mcnm.com/" id="1374">
       <title>顶点小说</title>
     </bookmark>
-    <bookmark href="http://www.laidudu.net/" id="1375">
-      <title>来读读</title>
-    </bookmark>
     <bookmark href="https://github.com/gedoor/legado" id="1376">
       <title>gedoor/legado: ❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</title>
     </bookmark>
@@ -4537,9 +4534,6 @@
   </bookmark>
   <bookmark href="https://download.dengtacloud.org/dt/dengta-3.0.1-windows-amd64-setup.exe" id="3038">
     <title>历史记录</title>
-  </bookmark>
-  <bookmark href="https://baike.baidu.com/item/%E4%BD%9B%E9%81%93%E5%8F%8C%E4%BF%AE/3376448" id="3039">
-    <title>佛道双修_百度百科</title>
   </bookmark>
   <bookmark href="https://baike.baidu.com/item/%E4%BD%9B%E9%81%93%E5%8F%8C%E4%BF%AE/3376448" id="3142">
     <title>佛道双修_百度百科</title>
@@ -9368,9 +9362,6 @@
       <title>MDN Web Docs</title>
     </bookmark>
   </folder>
-  <folder id="1118">
-    <title>Ymodem 已读</title>
-  </folder>
   <bookmark href="https://tech.meituan.com/2021/01/22/flutter-in-harmonyos.html" id="1121">
     <title>让 Flutter 在鸿蒙系统上跑起来 - 美团技术团队</title>
   </bookmark>
@@ -9389,8 +9380,5 @@
   <bookmark href="https://api.oioweb.cn/" id="1126">
     <title>教书先生API - 提供免费接口调用平台</title>
   </bookmark>
-  <folder id="1127">
-    <title>0420</title>
-  </folder>
 </folder>
 </xbel>
