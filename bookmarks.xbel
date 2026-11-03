@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3148: for Floccus bookmark sync browser extension -->
+<!--- highestId :3162: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -4535,6 +4535,48 @@
   <bookmark href="https://www.one-tab.com/page/cpmDxhO9QC2xIW13tbkFLw" id="3146">
     <title>OneTab - 1029</title>
   </bookmark>
+  <folder id="3149">
+    <title>20261104</title>
+    <bookmark href="chrome://bookmarks/" id="3150">
+      <title>书签</title>
+    </bookmark>
+    <bookmark href="https://my.qidian.com/bookcase/?ticket=ttsnwsf9TjxM&amp;ywguid=1031583242&amp;ywOpenId=A5428D0FA743E4AB749D49E65406A993" id="3151">
+      <title>我的书架_个人中心_起点中文网</title>
+    </bookmark>
+    <bookmark href="http://www.xlaidudu.la/book/124820/" id="3152">
+      <title>xlaidudu.la/book/124820/</title>
+    </bookmark>
+    <bookmark href="http://www.xlaidudu.la/book/5415/" id="3153">
+      <title>诅咒之龙最新章节列表_诅咒之龙全文阅读_来读读小说</title>
+    </bookmark>
+    <bookmark href="http://www.xlaidudu.la/book/121902/45848701.html" id="3154">
+      <title>第76章 直言不讳_八道横行_来读读小说</title>
+    </bookmark>
+    <bookmark href="http://www.xlaidudu.la/book/116512/" id="3155">
+      <title>元始法则最新章节列表_元始法则全文阅读_来读读小说</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7633624917233319936" id="3156">
+      <title>Android App 最强APM来袭 简介 Android APM 是一个全维度 Android 性能监控框架，当 - 掘金</title>
+    </bookmark>
+    <bookmark href="http://www.xlaidudu.la/book/54506/" id="3157">
+      <title>白骨大圣最新章节列表_白骨大圣全文阅读_来读读小说</title>
+    </bookmark>
+    <bookmark href="https://www.69shuba.com/txt/31774/24752636" id="3158">
+      <title>白骨大圣-第277章 先生说的年轻貌美，身材凹凸别致女狐仙可是那衣衫不整美少妇？-69书吧</title>
+    </bookmark>
+    <bookmark href="https://github.com/siddharthjaswal/logpose" id="3159">
+      <title>GitHub - siddharthjaswal/logpose: A lightweight Android Studio / IntelliJ plugin for reading your app&apos;s network traffic without the logcat pain. 🧭 · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.com/search?q=plugin+for+Android+Studio&amp;amp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Btype=repositories&amp;amp%3Btype=repositories&amp;type=repositories&amp;s=updated&amp;o=desc" id="3160">
+      <title>Repository search results</title>
+    </bookmark>
+    <bookmark href="https://github.com/search?q=plugin+for+Android+Studio+&amp;amp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Btype=repositories&amp;amp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bs=updated&amp;amp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bo=desc&amp;amp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Bamp%3Btype=repositories&amp;amp%3Btype=repositories&amp;type=repositories&amp;s=updated&amp;o=asc" id="3161">
+      <title>Repository search results</title>
+    </bookmark>
+    <bookmark href="chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html" id="3162">
+      <title>OneTab</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
