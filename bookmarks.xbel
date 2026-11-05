@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3163: for Floccus bookmark sync browser extension -->
+<!--- highestId :3164: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -4575,6 +4575,9 @@
     </bookmark>
     <bookmark href="https://juejin.cn/post/7700869924676435994" id="3163">
       <title>219 个还是 0 个：读不到微信界面时，我只加不删Andee 是跑在 Android 上的 agent，内部是一个工具 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://www.69shuba.com/txt/51265/33495495" id="3164">
+      <title>赤心巡天-第1385章 触手可及（为盟主我本登徒子加更！）-69书吧</title>
     </bookmark>
   </folder>
 </folder>
