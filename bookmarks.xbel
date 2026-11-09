@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3165: for Floccus bookmark sync browser extension -->
+<!--- highestId :3166: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -4577,6 +4577,9 @@
       <title>219 个还是 0 个：读不到微信界面时，我只加不删Andee 是跑在 Android 上的 agent，内部是一个工具 - 掘金</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.nexusmods.com/" id="3166">
+    <title>Nexus Mods</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Other Bookmarks</title>
